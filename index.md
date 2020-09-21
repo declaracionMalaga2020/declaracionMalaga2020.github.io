@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# La Declaración de Málaga sobre la Evaluación de la Investigación en Informática
 
-You can use the [editor on GitHub](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+La Sociedad Española de Informática ([SCIE](http://scie.es/)) ha elaborado una [declaración sobre la evaluación de la investigación en informática](http://www.scie.es/destacado/declaracion-la-comunidad-cientifica-informatica-la-evaluacion-la-investigacion/), que incluye un [Manifiesto](http://scie.es/wp-content/uploads/2020/06/declaracion-malaga.pdf) en donde se proponen una serie de principios fundamentales que deben guiar la evaluación de la investigación.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Su objetivo es recalcar la importancia de los procesos de evaluación para mejorar la calidad de la propia investigación y proponer una serie de principios que permitan reforzarlos. 
 
-### Markdown
+## Principios
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Esta declaración propone un nuevo marco para la evaluación de la investigación en informática en España, alineada con otras declaraciones internacionales y basada en cinco principios: 
 
-```markdown
-Syntax highlighted code block
+(1)	la calidad de las publicaciones debe prevalecer sobre la cantidad de las mismas, siendo la opinión de los expertos la que debe primar sobre cualquier criterio basado únicamente en índices bibliométricos; 
 
-# Header 1
-## Header 2
-### Header 3
+(2) la presencia y colaboración internacional, debiéndose valorar las conferencias internacionales de incuestionable calidad científica; 
 
-- Bulleted
-- List
+(3) el impacto social y de transferencia fuera del ámbito estrictamente científico; 
 
-1. Numbered
-2. List
+(4) el liderazgo que conduzca a un impulso medible de la actividad investigadora y 
 
-**Bold** and _Italic_ and `Code` text
+(5) la investigación e innovación responsable, que posibilite el acceso abierto a los resultados de investigación y la contrastación de resultados.
 
-[Link](url) and ![Image](src)
-```
+Puedes [descargar la declaración completa aquí](http://scie.es/wp-content/uploads/2020/06/declaracion-malaga.pdf).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Súmate a la declaración
 
-### Jekyll Themes
+Si perteneces a la comunidad académica española y quieres sumarte a esta Declaración, comparte por favor tu nombre, apellidos e institución académica en el siguiente formulario:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[https://forms.gle/dkgAsHN4tbAHvDY67](https://forms.gle/dkgAsHN4tbAHvDY67)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Firmas
