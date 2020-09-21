@@ -1,5 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/26405870/93817565-75640700-fc59-11ea-9c58-fd101f4ec5e0.png" /></p>
 
+# La Declaración de Málaga sobre la Evaluación de la Investigación en Informática
+
 La Sociedad Española de Informática ([SCIE](http://scie.es/)) ha elaborado una [declaración sobre la evaluación de la investigación en informática](http://www.scie.es/destacado/declaracion-la-comunidad-cientifica-informatica-la-evaluacion-la-investigacion/), que incluye un [Manifiesto](http://scie.es/wp-content/uploads/2020/06/declaracion-malaga.pdf) en donde se proponen una serie de principios fundamentales que deben guiar la evaluación de la investigación.
 
 Su objetivo es recalcar la importancia de los procesos de evaluación para mejorar la calidad de la propia investigación y proponer una serie de principios que permitan reforzarlos. 
