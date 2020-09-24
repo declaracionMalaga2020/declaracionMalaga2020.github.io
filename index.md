@@ -30,103 +30,114 @@ Si perteneces a la comunidad académica española y quieres sumarte a esta Decla
 
 ## Firmas
 
-Prof. Dr. Antonio Vallecillo
+1. Abascal, Julio
 
-Francisco Javier Moreno Garcia
+2. Alfaro Cortés, Francisco J.
 
-Dr. Nestor Garay Vitoria
+3. Asenjo Plaza, Rafael
 
-Dr. Jose Miguel Mota Macías
+4. Atencia, Miguel
 
-Prof. Dr. Ernest Teniente
+5. Bahamonde , Antonio
 
-Dra. Nieves Rodríguez Brisaboa
+6. Blanco Pérez, Vicente José
 
-Prof. Dr. José Antonio Cruz Lemus
+7. Burgueño Caballero, Lola
 
-Dra. Dolores Isabel Rexachs del Rosario
+8. Caballero, Ismael
 
-Prof Emilio Luque Fadón
+9. Campos Laclaustra, Javier
 
-Dr. Faraón Llorens Largo
+10. Clemente Martín, Pedro José
 
-Prof. Dr. Francisco José Quiles Flor
+11. Cortés Gracia, Cristóbal
 
-Dr. Miguel Atencia
+12. Cruz Lemus, José Antonio
 
-Prof. Dr. Manuel F. Bertoa
+13. Diaz, Oscar
 
-Dr. Francisco Luna Valero
+14. Dodero, Juan Manuel
 
-Prof. Dr. Ismael Caballero
+15. Durán Toro, Amador
 
-Prof. Dr. José García Fanjul
+16. F. Bertoa, Manuel
 
-Juan José Moreno Navarro
+17. Fanjul, José García
 
-Dr. Mariano Luque
+18. Garay Vitoria, Nestor
 
-Raquel Trillo Lado
+19. Garcia Fernandez, Inmaculada
 
-Dra Ana Garcia Serrano
+20. García Sánchez, Carlos
 
-Dr. Silverio Martínez-Fernández
+21. Garcia Serrano, Ana
 
-Dr. Miguel Toro Bonilla
+22. Garrido Bullejos, José Luis
 
-Prof. Dr Francisco J. Alfaro Cortés
+23. González Aparicio, María Teresa
 
-Prof. Dr. Fernando Orejas
+24. González Navarro, Mª Angeles
 
-Prof. Dr. Oscar Diaz
+25. Llorens Largo, Faraón
 
-Prof. Dr. Patricio Martínez Barco
+26. Lucio Carrasco, Paqui
 
-Carlos García Sánchez
+27. Luna Valero, Francisco
 
-Dr. José Luis Roda García
+28. Luque Fadón, Emilio
 
-Dr. Rafael Martínez Tomás
+29. Luque, Mariano
 
-Prof. Dr. José Luis Garrido Bullejos
+30. Martínez Barco, Patricio
 
-Prof.Dr. Xavier Pueyo
+31. Martínez Cantín, Rubén
 
-Prof. Dra Inmaculada Garcia Fernandez
+32. Martínez Tomás, Rafael
 
-Dr. Javier Tuya
+33. Martínez-Fernández, Silverio
 
-Prof. Dra Maria-Ribera Sancho Samsó
+34. Moreno Garcia, Francisco Javier
 
-Dr. Jose Antonio Parejo Maestre
+35. Moreno Navarro, Juan José
 
-Prof. Dr. Vicente José Blanco Pérez
+36. Moreno Sánchez-Capuchino, Ana María
 
-Ana María Moreno Sánchez-Capuchino
+37. Mota Macías, Jose Miguel
 
-Prof. Dra. Paqui Lucio Carrasco
+38. Orejas, Fernando
 
-Dra. María Teresa González Aparicio
+39. Parejo Maestre, Jose Antonio
 
-Prof. Dr. Amador Durán Toro
+40. Pérez de la Blanca, Nicolás
 
-Prof. Dr. Rafael Asenjo Plaza
+41. Pueyo, Xavier
 
-Prof. Dra. Mª Angeles González Navarro
+42. Quiles Flor, Francisco José
 
-Dr. Pedro José Clemente Martín
+43. Rexachs del Rosario, Dolores Isabel
 
-Dra. Lola Burgueño Caballero
+44. Roda García, José Luis
 
-Prof. Dr. Javier Campos Laclaustra
+45. Rodríguez Brisaboa, Nieves
 
-Prof. Dr. Rubén Martínez Cantín
+46. Ruiz , Antonio
 
-Prof. Dr. Juan Tapiador
+47. Sancho Samsó, Maria-Ribera
 
-Prof. Dr. Rafael Tolosana Calasanz
+48. Suárez Gracia, Darío
 
-Prof. Dr. Julio Abascal
+49. Tapiador, Juan
 
-Prof. Cristóbal Cortés Gracia
+50. Teniente, Ernest
 
+51. Tirado, Francisco
+
+52. Tolosana Calasanz, Rafael
+
+53. Toro Bonilla, Miguel
+
+54. Trillo Lado, Raquel
+
+55. Tuya, Javier
+
+56. Vallecillo, Antonio
