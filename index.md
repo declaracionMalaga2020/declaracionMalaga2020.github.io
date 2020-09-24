@@ -31,52 +31,102 @@ Si perteneces a la comunidad académica española y quieres sumarte a esta Decla
 ## Firmas
 
 Prof. Dr. Antonio Vallecillo
+
 Francisco Javier Moreno Garcia
+
 Dr. Nestor Garay Vitoria
+
 Dr. Jose Miguel Mota Macías
+
 Prof. Dr. Ernest Teniente
+
 Dra. Nieves Rodríguez Brisaboa
+
 Prof. Dr. José Antonio Cruz Lemus
+
 Dra. Dolores Isabel Rexachs del Rosario
+
 Prof Emilio Luque Fadón
+
 Dr. Faraón Llorens Largo
+
 Prof. Dr. Francisco José Quiles Flor
+
 Dr. Miguel Atencia
+
 Prof. Dr. Manuel F. Bertoa
+
 Dr. Francisco Luna Valero
+
 Prof. Dr. Ismael Caballero
+
 Prof. Dr. José García Fanjul
+
 Juan José Moreno Navarro
+
 Dr. Mariano Luque
+
 Raquel Trillo Lado
+
 Dra Ana Garcia Serrano
+
 Dr. Silverio Martínez-Fernández
+
 Dr. Miguel Toro Bonilla
+
 Prof. Dr Francisco J. Alfaro Cortés
+
 Prof. Dr. Fernando Orejas
+
 Prof. Dr. Oscar Diaz
+
 Prof. Dr. Patricio Martínez Barco
+
 Carlos García Sánchez
+
 Dr. José Luis Roda García
+
 Dr. Rafael Martínez Tomás
+
 Prof. Dr. José Luis Garrido Bullejos
+
 Prof.Dr. Xavier Pueyo
+
 Prof. Dra Inmaculada Garcia Fernandez
+
 Dr. Javier Tuya
+
 Prof. Dra Maria-Ribera Sancho Samsó
+
 Dr. Jose Antonio Parejo Maestre
+
 Prof. Dr. Vicente José Blanco Pérez
+
 Ana María Moreno Sánchez-Capuchino
+
 Prof. Dra. Paqui Lucio Carrasco
+
 Dra. María Teresa González Aparicio
+
 Prof. Dr. Amador Durán Toro
+
 Prof. Dr. Rafael Asenjo Plaza
+
 Prof. Dra. Mª Angeles González Navarro
+
 Dr. Pedro José Clemente Martín
+
 Dra. Lola Burgueño Caballero
+
 Prof. Dr. Javier Campos Laclaustra
+
 Prof. Dr. Rubén Martínez Cantín
+
 Prof. Dr. Juan Tapiador
+
 Prof. Dr. Rafael Tolosana Calasanz
+
 Prof. Dr. Julio Abascal
+
 Prof. Cristóbal Cortés Gracia
+
