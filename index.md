@@ -38,7 +38,7 @@ Si perteneces a la comunidad académica española y quieres sumarte a esta Decla
 
 4. Atencia, Miguel
 
-5. Bahamonde , Antonio
+5. Bahamonde, Antonio
 
 6. Blanco Pérez, Vicente José
 
@@ -76,68 +76,76 @@ Si perteneces a la comunidad académica española y quieres sumarte a esta Decla
 
 23. González Aparicio, María Teresa
 
-24. González Navarro, Mª Angeles
+24. González González , Carina Soledad
 
-25. Llorens Largo, Faraón
+25. González Navarro, Mª Angeles
 
-26. Lucio Carrasco, Paqui
+26. Llorens Largo, Faraón
 
-27. Luna Valero, Francisco
+27. López Álvarez, David
 
-28. Luque Fadón, Emilio
+28. Luaces Rodríguez, Oscar
 
-29. Luque, Mariano
+29. Lucio Carrasco, Paqui
 
-30. Martínez Barco, Patricio
+30. Luna Valero, Francisco
 
-31. Martínez Cantín, Rubén
+31. Luque, Mariano
 
-32. Martínez Tomás, Rafael
+32. Luque Fadón, Emilio
 
-33. Martínez-Fernández, Silverio
+33. Martínez Barco, Patricio
 
-34. Moreno Garcia, Francisco Javier
+34. Martínez Cantín, Rubén
 
-35. Moreno Navarro, Juan José
+35. Martínez Tomás, Rafael
 
-36. Moreno Sánchez-Capuchino, Ana María
+36. Martínez-Fernández, Silverio
 
-37. Mota Macías, Jose Miguel
+37. Medina Bulo, Inmaculada
 
-38. Orejas, Fernando
+38. Moreno Garcia, Francisco Javier
 
-39. Parejo Maestre, Jose Antonio
+39. Moreno Navarro, Juan José
 
-40. Pérez de la Blanca, Nicolás
+40. Moreno Sánchez-Capuchino, Ana María
 
-41. Pueyo, Xavier
+41. Mota Macías, Jose Miguel
 
-42. Quiles Flor, Francisco José
+42. Orejas, Fernando
 
-43. Rexachs del Rosario, Dolores Isabel
+43. Parejo Maestre, Jose Antonio
 
-44. Roda García, José Luis
+44. Pérez de la Blanca, Nicolás
 
-45. Rodríguez Brisaboa, Nieves
+45. Pueyo, Xavier
 
-46. Ruiz , Antonio
+46. Quiles Flor, Francisco José
 
-47. Sancho Samsó, Maria-Ribera
+47. Rexachs del Rosario, Dolores Isabel
 
-48. Suárez Gracia, Darío
+48. Roda García, José Luis
 
-49. Tapiador, Juan
+49. Rodríguez Brisaboa, Nieves
 
-50. Teniente, Ernest
+50. Ruiz , Antonio
 
-51. Tirado, Francisco
+51. Sancho Samsó, Maria-Ribera
 
-52. Tolosana Calasanz, Rafael
+52. Suárez Gracia, Darío
 
-53. Toro Bonilla, Miguel
+53. Tapiador, Juan
 
-54. Trillo Lado, Raquel
+54. Teniente, Ernest
 
-55. Tuya, Javier
+55. Tirado, Francisco
 
-56. Vallecillo, Antonio
+56. Tolosana Calasanz, Rafael
+
+57. Toro Bonilla, Miguel
+
+58. Trillo Lado, Raquel
+
+59. Tuya, Javier
+
+60. Vallecillo, Antonio
