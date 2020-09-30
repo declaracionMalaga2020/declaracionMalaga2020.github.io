@@ -30,7 +30,7 @@ Si perteneces a la comunidad académica española y quieres sumarte a esta Decla
 
 [https://forms.gle/dkgAsHN4tbAHvDY67](https://forms.gle/dkgAsHN4tbAHvDY67)
 
-Si deseas que sumarte como institución académica, debes emplear el siguiente formulario:
+Si además deseas sumarte como institución, debes emplear el siguiente formulario:
 
 [https://forms.gle/HXXW7RqDwg9jZRkn7](https://forms.gle/HXXW7RqDwg9jZRkn7)
 
@@ -178,4 +178,4 @@ Si deseas que sumarte como institución académica, debes emplear el siguiente f
 
 71. Tuya, Javier - Universidad de Oviedo
 
-72. Vallecillo, Antonio - Universidad de Malaga
+72. Vallecillo, Antonio - Universidad de Málaga
