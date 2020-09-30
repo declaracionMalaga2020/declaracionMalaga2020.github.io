@@ -6,6 +6,8 @@ La Sociedad Española de Informática ([SCIE](http://scie.es/)) ha elaborado una
 
 Su objetivo es recalcar la importancia de los procesos de evaluación para mejorar la calidad de la propia investigación y proponer una serie de principios que permitan reforzarlos. 
 
+La presentación oficial del Manifiesto se realizó en Málaga, el 23 de septiembre de 2020, con la celebración de una mesa redonda en donde representantes de las distintas agencias e instituciones que actualmente tienen responsabilidad en cuestiones de evaluación de la investigación discutieron sobre estos temas y analizaron sus repercusiones. Puedes ver el video del acto de presentación y de la mesa redonda en [https://congresocedi.es/#mesa](https://congresocedi.es/#mesa)
+
 ## Principios
 
 Esta declaración propone un nuevo marco para la evaluación de la investigación en informática en España, alineada con otras declaraciones internacionales y basada en cinco principios: 
@@ -30,122 +32,146 @@ Si perteneces a la comunidad académica española y quieres sumarte a esta Decla
 
 ## Firmas
 
-1. Abascal, Julio
+1. Abascal, Julio - Universidad del País Vasco/Euskal Herriko Unibertsitatea
 
-2. Alfaro Cortés, Francisco J.
+2. Alfaro Cortés, Francisco J. - Universidad de Castilla-La Mancha
 
-3. Asenjo Plaza, Rafael
+3. Asenjo Plaza, Rafael - Universidad de Málaga
 
-4. Atencia, Miguel
+4. Atencia, Miguel - Universidad de Málaga
 
-5. Bahamonde, Antonio
+5. Bahamonde, Antonio - Universidad de Oviedo
 
-6. Blanco Pérez, Vicente José
+6. Blanco Pérez, Vicente José - Universidad de La Laguna
 
-7. Burgueño Caballero, Lola
+7. Burgueño Caballero, Lola - Universitat Oberta de Catalunya
 
-8. Caballero, Ismael
+8. Caballero, Ismael - UCLM
 
-9. Campos Laclaustra, Javier
+9. Campos Laclaustra, Javier - Universidad de Zaragoza
 
-10. Clemente Martín, Pedro José
+10. Clemente Martín, Pedro José - Universidad de Extremadura
 
-11. Cortés Gracia, Cristóbal
+11. Cortés Gracia, Cristóbal - Departamento de Ingeniería Mecánica, Universidad de Zaragoza
 
-12. Cruz Lemus, José Antonio
+12. Cruz Lemus, José Antonio - Universidad de Castilla-La Mancha
 
-13. Diaz, Oscar
+13. del Río Ortega, Adela - Universidad de Sevilla
 
-14. Dodero, Juan Manuel
+14. Diaz, Oscar - Universidad del País Vasco
 
-15. Durán Toro, Amador
+15. Dodero, Juan Manuel - Universidad de Cádiz
 
-16. F. Bertoa, Manuel
+16. Durán Toro, Amador - Universidad de Sevilla
 
-17. Fanjul, José García
+17. F. Bertoa, Manuel - Univerdidad de Málaga
 
-18. Garay Vitoria, Nestor
+18. Fanjul, José García - Universidad de Oviedo
 
-19. Garcia Fernandez, Inmaculada
+19. Fernández Montes, Pablo - Universidad de Sevilla
 
-20. García Sánchez, Carlos
+20. Fernández Rodríguez, José Jesús - CSIC
 
-21. Garcia Serrano, Ana
+21. Garay Vitoria, Nestor - Universidad del País Vasco/Euskal Herriko Unibertsitatea (UPV/EHU)
 
-22. Garrido Bullejos, José Luis
+22. Garcia Fernandez, Inmaculada - Universidad de Malaga
 
-23. González Aparicio, María Teresa
+23. García Sánchez, Carlos - Universidad Complutense de Madrid
 
-24. González González , Carina Soledad
+24. Garcia Serrano, Ana - ETSI Informática UNED
 
-25. González Navarro, Mª Angeles
+25. Garrido Bullejos, José Luis - Universidad de Granada
 
-26. Llorens Largo, Faraón
+26. González Aparicio, María Teresa - Universidad de Oviedo
 
-27. López Álvarez, David
+27. González González , Carina Soledad - Universidad de La Laguna
 
-28. Luaces Rodríguez, Oscar
+28. González Navarro, Mª Angeles - Universidad de Málaga
 
-29. Lucio Carrasco, Paqui
+29. González Ruiz, Vicente - Universidad de Almería
 
-30. Luna Valero, Francisco
+30. Iribarne, Luis - Universidad de Almería
 
-31. Luque, Mariano
+31. Juan Lizandra, M. Carmen - Universitat Politècnica de València
 
-32. Luque Fadón, Emilio
+32. Llorens Largo, Faraón - Universidad de Alicante
 
-33. Martínez Barco, Patricio
+33. López Álvarez, David - Universitat Politècnica de Catalunya 
 
-34. Martínez Cantín, Rubén
+34. Luaces Rodríguez, Oscar - Universidad de Oviedo
 
-35. Martínez Tomás, Rafael
+35. Lucio Carrasco, Paqui - Universidad del País Vasco
 
-36. Martínez-Fernández, Silverio
+36. Luna Valero, Francisco - Universidad de Málaga
 
-37. Medina Bulo, Inmaculada
+37. Luque, Mariano - Universidad de Málaga
 
-38. Moreno Garcia, Francisco Javier
+38. Luque Fadón, Emilio - Universidad Autónoma de Barcelona
 
-39. Moreno Navarro, Juan José
+39. Martín Díaz, Octavio - Universidad de Sevilla
 
-40. Moreno Sánchez-Capuchino, Ana María
+40. Martín Garzón, Gracia Ester - Universidad de Almería
 
-41. Mota Macías, Jose Miguel
+41. Martínez Barco, Patricio - Universidad de Alicante
 
-42. Orejas, Fernando
+42. Martínez Cantín, Rubén - Universidad de Zaragoza
 
-43. Parejo Maestre, Jose Antonio
+43. Martínez Tomás, Rafael - Universidad Nacional de Educación a Distancia
 
-44. Pérez de la Blanca, Nicolás
+44. Martínez-Fernández, Silverio - Universitat Politècnica de Catalunya (UPC-BarcelonaTech)
 
-45. Pueyo, Xavier
+45. Medina Bulo, Inmaculada - Universidad de Cádiz
 
-46. Quiles Flor, Francisco José
+46. Moreno Garcia, Francisco Javier - Instituto Internacional de Intraemprendimiento
 
-47. Rexachs del Rosario, Dolores Isabel
+47. Moreno Navarro, Juan José - Instituto Imdea Software / Universidad Politécnica de Madrid
 
-48. Roda García, José Luis
+48. Moreno Sánchez-Capuchino, Ana María - Universidad Politécnica de Madrid
 
-49. Rodríguez Brisaboa, Nieves
+49. Mota Macías, Jose Miguel - Universidad de Cádiz
 
-50. Ruiz , Antonio
+50. Orejas, Fernando - Universitat Poilitècnica de Catalunya
 
-51. Sancho Samsó, Maria-Ribera
+51. Parejo Maestre, Jose Antonio - Universidad de Sevilla
 
-52. Suárez Gracia, Darío
+52. Pérez de la Blanca, Nicolás  - Universidad de Granada
 
-53. Tapiador, Juan
+53. Pueyo, Xavier - Universitat de Girona
 
-54. Teniente, Ernest
+54. Quiles Flor, Francisco José - Universidad de Castilla-La Mancha
 
-55. Tirado, Francisco
+55. Resinas, Manuel - Universidad de Sevilla
 
-56. Tolosana Calasanz, Rafael
+56. Rexachs del Rosario, Dolores Isabel - Universidad Autónoma de Barcelona
 
-57. Toro Bonilla, Miguel
+57. Roda García, José Luis - Universidad de La Laguna
 
-58. Trillo Lado, Raquel
+58. Rodríguez Brisaboa, Nieves - Universidade da CXoruña
 
-59. Tuya, Javier
+59. Rodriguez Vela, María Camino - Universidad de Oviedo
 
-60. Vallecillo, Antonio
+60. Ruiz, Antonio - Universidd de Sevilla
+
+61. Sancho Samsó, Maria-Ribera - Universitat Politècnica de Catalunya
+
+62. Suárez Gracia, Darío - Universidad de Zaragoza
+
+63. Tapiador, Juan - Universidad Carlos III de Madrid
+
+64. Teniente, Ernest - Universitat Politècnica de Catalunya (UPC)
+
+65. Tirado, Francisco - Universidad Complutense de Madrid
+
+66. Tolosana Calasanz, Rafael - Universidad de Zaragoza
+
+67. Toro Bonilla, Miguel - Universidad de Sevilla
+
+68. Trillo Lado, Raquel - Universidad de Zaragoza
+
+69. Trinidad Martín-Arroyo, Pablo - Universidad de Sevilla
+
+70. Troya Castilla, Javier - Universidad de Sevilla
+
+71. Tuya, Javier - Universidad de Oviedo
+
+72. Vallecillo, Antonio - Universidad de Malaga
