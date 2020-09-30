@@ -30,6 +30,10 @@ Si perteneces a la comunidad académica española y quieres sumarte a esta Decla
 
 [https://forms.gle/dkgAsHN4tbAHvDY67](https://forms.gle/dkgAsHN4tbAHvDY67)
 
+Si deseas que sumarte como institución académica, debes emplear el siguiente formulario:
+
+[https://forms.gle/HXXW7RqDwg9jZRkn7](https://forms.gle/HXXW7RqDwg9jZRkn7)
+
 ## Firmas
 
 1. Abascal, Julio - Universidad del País Vasco/Euskal Herriko Unibertsitatea
@@ -46,19 +50,19 @@ Si perteneces a la comunidad académica española y quieres sumarte a esta Decla
 
 7. Burgueño Caballero, Lola - Universitat Oberta de Catalunya
 
-8. Caballero, Ismael - UCLM
+8. Caballero, Ismael - Universidad de Castilla-La Mancha
 
 9. Campos Laclaustra, Javier - Universidad de Zaragoza
 
 10. Clemente Martín, Pedro José - Universidad de Extremadura
 
-11. Cortés Gracia, Cristóbal - Departamento de Ingeniería Mecánica, Universidad de Zaragoza
+11. Cortés Gracia, Cristóbal - Universidad de Zaragoza
 
 12. Cruz Lemus, José Antonio - Universidad de Castilla-La Mancha
 
 13. del Río Ortega, Adela - Universidad de Sevilla
 
-14. Diaz, Oscar - Universidad del País Vasco
+14. Diaz, Oscar - Universidad del País Vasco/Euskal Herriko Unibertsitatea
 
 15. Dodero, Juan Manuel - Universidad de Cádiz
 
@@ -72,13 +76,13 @@ Si perteneces a la comunidad académica española y quieres sumarte a esta Decla
 
 20. Fernández Rodríguez, José Jesús - CSIC
 
-21. Garay Vitoria, Nestor - Universidad del País Vasco/Euskal Herriko Unibertsitatea (UPV/EHU)
+21. Garay Vitoria, Nestor - Universidad del País Vasco/Euskal Herriko Unibertsitatea
 
 22. Garcia Fernandez, Inmaculada - Universidad de Malaga
 
 23. García Sánchez, Carlos - Universidad Complutense de Madrid
 
-24. Garcia Serrano, Ana - ETSI Informática UNED
+24. Garcia Serrano, Ana - Universidad Nacional de Educación a Distancia
 
 25. Garrido Bullejos, José Luis - Universidad de Granada
 
@@ -100,7 +104,7 @@ Si perteneces a la comunidad académica española y quieres sumarte a esta Decla
 
 34. Luaces Rodríguez, Oscar - Universidad de Oviedo
 
-35. Lucio Carrasco, Paqui - Universidad del País Vasco
+35. Lucio Carrasco, Paqui - Universidad del País Vasco/Euskal Herriko Unibertsitatea
 
 36. Luna Valero, Francisco - Universidad de Málaga
 
@@ -158,7 +162,7 @@ Si perteneces a la comunidad académica española y quieres sumarte a esta Decla
 
 63. Tapiador, Juan - Universidad Carlos III de Madrid
 
-64. Teniente, Ernest - Universitat Politècnica de Catalunya (UPC)
+64. Teniente, Ernest - Universitat Politècnica de Catalunya 
 
 65. Tirado, Francisco - Universidad Complutense de Madrid
 
