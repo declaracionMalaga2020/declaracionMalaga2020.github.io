@@ -338,6 +338,12 @@ Si además deseas sumarte como institución, debes emplear el siguiente formular
 
 151. Vicente Chicote, Cristina - Universidad de Extremadura
 
+## Firmas de instituciones
 
+1. [Dpto. de Arquitectura y Tecnología de Computadores de la Universidad del País Vasco/Euskal Herriko Unibertsitatea - ATC (UPV/EHU)](https://declaracionmalaga2020.github.io/firmas/instituciones#dpto-de-arquitectura-y-tecnolog%C3%ADa-de-computadores-de-la-universidad-del-pa%C3%ADs-vascoeuskal-herriko-unibertsitatea---atc-upvehu)
+
+2. [Universidad de Cantabria - UNICAN](https://declaracionmalaga2020.github.io/firmas/instituciones#universidad-de-cantabria---unican)
+
+3. [Instituto de Investigación en Informática de Albacete - i3A](https://declaracionmalaga2020.github.io/firmas/instituciones#instituto-de-investigaci%C3%B3n-en-inform%C3%A1tica-de-albacete---i3a)
 
 
