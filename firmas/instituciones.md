@@ -30,7 +30,6 @@
 [www.cosce.org](www.cosce.org)
 
 **Dirección:**     Rambla del Prat, 2, pral. 1ª. 08012 Barcelona
-                   Madrid
 
 **Responsable:**   Perla Wahnon Benarroch - Presidenta
 
