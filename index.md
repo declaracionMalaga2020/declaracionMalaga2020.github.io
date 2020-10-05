@@ -446,4 +446,6 @@ Si además deseas sumarte como institución, debes emplear el siguiente formular
 
 3. [Instituto de Investigación en Informática de Albacete - i3A](https://declaracionmalaga2020.github.io/firmas/instituciones#instituto-de-investigaci%C3%B3n-en-inform%C3%A1tica-de-albacete---i3a)
 
+4. [Confederación de Sociedades Científicas de España - COSCE](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#confederaci%C3%B3n-de-sociedades-cient%C3%ADficas-de-espa%C3%B1a---cosce)
 
+5. [Departamento de Informática de la Universidad Carlos III de Madrid - UC3M](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#departamento-de-inform%C3%A1tica-de-la-universidad-carlos-iii-de-madrid---uc3m)
