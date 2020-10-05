@@ -3,7 +3,7 @@
 # La Declaración de Málaga sobre la Evaluación de la Investigación en Informática - Instituciones adheridas
 
 ## Dpto. de Arquitectura y Tecnología de Computadores de la Universidad del País Vasco/Euskal Herriko Unibertsitatea - ATC (UPV/EHU)
-[https://www.ehu.eus/eu/web/kat/home](https://www.ehu.eus/eu/web/kat/home)
+[www.ehu.eus/eu/web/kat/home](https://www.ehu.eus/eu/web/kat/home)
 
 **Dirección:**    Facultad de Informática, Paseo Manuel Lardizabal, 1, 20018
                   Donostia-San Sebastián
@@ -11,7 +11,7 @@
 **Responsable:**  Olatz Arregi Uriarte - Directora de departamento
               
 ## Universidad de Cantabria - UNICAN
-[https://web.unican.es/](https://web.unican.es/)
+[web.unican.es/](https://web.unican.es/)
 
 **Dirección:**    Avenida de Los Castros s/n
                   Santander
@@ -25,3 +25,19 @@
                    Albacete
 
 **Responsable:**   Luis Orozco Barbosa - Director
+
+## Confederación de Sociedades Científicas de España - COSCE
+[www.cosce.org](www.cosce.org)
+
+**Dirección:**     Rambla del Prat, 2, pral. 1ª. 08012 Barcelona
+                   Madrid
+
+**Responsable:**   Perla Wahnon Benarroch - Presidenta
+
+## Departamento de Informática de la Universidad Carlos III de Madrid - UC3M
+[www.inf.uc3m.es/](https://www.inf.uc3m.es/)
+
+**Dirección:**     Avenida de la Universidad, 5
+                   Leganés
+
+**Responsable:**   Paloma Martínez - Directora
