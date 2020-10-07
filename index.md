@@ -513,3 +513,13 @@ Si además deseas sumarte como institución, debes emplear el siguiente formular
 4. [Confederación de Sociedades Científicas de España - COSCE](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#confederaci%C3%B3n-de-sociedades-cient%C3%ADficas-de-espa%C3%B1a---cosce)
 
 5. [Departamento de Informática de la Universidad Carlos III de Madrid - UC3M](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#departamento-de-inform%C3%A1tica-de-la-universidad-carlos-iii-de-madrid---uc3m)
+
+6. [Escuela Superior de Informática de la Universidad de Castilla-La Mancha - ESI](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#escuela-superior-de-inform%C3%A1tica-de-la-universidad-de-castilla-la-mancha---esi)
+
+7. [IMDEA Software Institute](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#imdea-software-institute)
+
+8. [Grupo de Investigación Reconocido ECA-SIMM (Universidad de Valladolid) - ECA--SIMM (UVa)](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#grupo-de-investigaci%C3%B3n-reconocido-eca-simm-universidad-de-valladolid---eca--simm-uva)
+
+9. [Asociación Española para la Inteligencia Artificial - AEPIA](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#asociaci%C3%B3n-espa%C3%B1ola-para-la-inteligencia-artificial---aepia)
+
+10. [HiTZ: Centro Vasco de Tecnología de la Lengua - HiTZ](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#hitz-centro-vasco-de-tecnolog%C3%ADa-de-la-lengua---hitz)
