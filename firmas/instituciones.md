@@ -40,3 +40,40 @@
                    Leganés
 
 **Responsable:**   Paloma Martínez - Directora
+
+## Escuela Superior de Informática de la Universidad de Castilla-La Mancha - ESI
+[www.inf-cr.uclm.es/](http://www.inf-cr.uclm.es/)
+
+**Dirección:**     Paseo de la Universidad S/N
+                   Ciudad Real
+
+**Responsable:**   Eduardo Fernández-Medina Patón - Director
+
+## IMDEA Software Institute
+[software.imdea.org](https://software.imdea.org)
+
+**Dirección:**     Campus Montegancedo s/n, 28223, Pozuelo de Alarcon, Madrid
+
+**Responsable:**   Manuel Carro Liñares - Director
+
+## Grupo de Investigación Reconocido ECA-SIMM (Universidad de Valladolid) - ECA--SIMM (UVa)
+[eca-simm.uva.es](https://eca-simm.uva.es)
+
+**Dirección:**     Escuela de Ingeniería Informática. Paseo de Belén 15. 47011 Valladolid
+
+**Responsable:**   Valentín Cardeñoso Payo - Investigador Responsable del GIR
+
+
+## Asociación Española para la Inteligencia Artificial - AEPIA
+[www.aepia.org/aepia/](http://www.aepia.org/aepia/)
+
+**Dirección:**     Facultad de Informática. Universidade da Coruña, 15071 A Coruña
+
+**Responsable:**   Amparo Alonso Betanzos - Presidenta AEPIA
+
+## HiTZ: Centro Vasco de Tecnología de la Lengua - HiTZ
+[hitz.eus](http://hitz.eus)
+
+**Dirección:**     Manuel Lardizabal, 1. 20018 Donostia - San Sebastian
+
+**Responsable:**   Eneko Agirre - Director
