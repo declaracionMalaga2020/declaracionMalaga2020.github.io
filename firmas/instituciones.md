@@ -77,3 +77,18 @@
 **Dirección:**     Manuel Lardizabal, 1. 20018 Donostia - San Sebastian
 
 **Responsable:**   Eneko Agirre - Director
+
+## Sociedad Española de Arquitectura y Tecnología de Computadores - SARTECO
+[sarteco.org/](https://sarteco.org/)
+
+**Dirección:**     Facultad de Informática – UCM C/ Prof. José García Santesmases s/n 28040 — Madrid
+
+**Responsable:**   Francisco José Quiles Flor - Presidente
+
+## Departamento de Tecnologías y Sistemas de Información de la Universidad de Castilla La Mancha - DTSI-UCLM
+[www.uclm.es/departamentos/dtsi](https://www.uclm.es/departamentos/dtsi)
+
+**Dirección:**     Paseo de la Universidad, 4, 13071 Ciudad Real
+
+**Responsable:**   Francisco Pascual Romero Chicharro - Director
+
