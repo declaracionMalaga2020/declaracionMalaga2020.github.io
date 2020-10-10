@@ -583,3 +583,7 @@ Si además deseas sumarte como institución, debes emplear el siguiente formular
 9. [Asociación Española para la Inteligencia Artificial - AEPIA](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#asociaci%C3%B3n-espa%C3%B1ola-para-la-inteligencia-artificial---aepia)
 
 10. [HiTZ: Centro Vasco de Tecnología de la Lengua - HiTZ](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#hitz-centro-vasco-de-tecnolog%C3%ADa-de-la-lengua---hitz)
+
+11. [Sociedad Española de Arquitectura y Tecnología de Computadores - SARTECO](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#sociedad-espa%C3%B1ola-de-arquitectura-y-tecnolog%C3%ADa-de-computadores---sarteco)
+
+12. [Departamento de Tecnologías y Sistemas de Información de la Universidad de Castilla La Mancha - DTSI-UCLM](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#departamento-de-tecnolog%C3%ADas-y-sistemas-de-informaci%C3%B3n-de-la-universidad-de-castilla-la-mancha---dtsi-uclm)
