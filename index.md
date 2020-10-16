@@ -587,3 +587,13 @@ Si además deseas sumarte como institución, debes emplear el siguiente formular
 11. [Sociedad Española de Arquitectura y Tecnología de Computadores - SARTECO](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#sociedad-espa%C3%B1ola-de-arquitectura-y-tecnolog%C3%ADa-de-computadores---sarteco)
 
 12. [Departamento de Tecnologías y Sistemas de Información de la Universidad de Castilla La Mancha - DTSI-UCLM](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#departamento-de-tecnolog%C3%ADas-y-sistemas-de-informaci%C3%B3n-de-la-universidad-de-castilla-la-mancha---dtsi-uclm)
+
+13. [Instituto de Tecnología e Ingeniería del Software de la Universidad de Málaga - ITIS Software] (https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#instituto-de-tecnolog%C3%ADa-e-ingenier%C3%ADa-del-software-de-la-universidad-de-m%C3%A1laga---itis-software)
+
+14. [Colexio Profesional de Enxeñaría en Informática de Galicia - CPEIG](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#colexio-profesional-de-enxe%C3%B1ar%C3%ADa-en-inform%C3%A1tica-de-galicia---cpeig)
+
+15. [Centro Singular de Investigación en Tecnologías Inteligentes de la Universidade de Santiago de Compostela - CiTIUS](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#centro-singular-de-investigaci%C3%B3n-en-tecnolog%C3%ADas-inteligentes-de-la-universidade-de-santiago-de-compostela---citius)
+
+16. [Departamento de Sistemas Informáticos de la Universidad de Castilla-La Mancha - DSI](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#departamento-de-sistemas-inform%C3%A1ticos-de-la-universidad-de-castilla-la-mancha---dsi)
+
+17. [Departamento de Ingeniería de Computadores, Universidade da Coruña - DEC-UDC](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#departamento-de-ingenier%C3%ADa-de-computadores-universidade-da-coru%C3%B1a---dec-udc)
