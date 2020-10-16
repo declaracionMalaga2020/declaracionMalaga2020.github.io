@@ -92,3 +92,37 @@
 
 **Responsable:**   Francisco Pascual Romero Chicharro - Director
 
+## Instituto de Tecnología e Ingeniería del Software de la Universidad de Málaga - ITIS Software
+[itis.uma.es](http://itis.uma.es)
+
+**Dirección:**     Calle Arquitecto Francisco Peñalosa, 18, 29010 Málaga
+
+**Responsable:**   Pedro Merino Gómez - Director
+
+## Colexio Profesional de Enxeñaría en Informática de Galicia - CPEIG
+[www.cpeig.gal](www.cpeig.gal)
+
+**Dirección:**     Fernando III O Santo 13, 1ºA Santiago de Compostela
+
+**Responsable:**   Fernando Suárez - Presidente
+
+## Centro Singular de Investigación en Tecnologías Inteligentes de la Universidade de Santiago de Compostela - CiTIUS
+[citius.usc.es/](https://citius.usc.es/)
+
+**Dirección:**     CiTIUS, Jenaro de la Fuente s/n, 15782, Santiago de Compostela
+
+**Responsable:**   Senén Barro Ameneiro - Director
+
+## Departamento de Sistemas Informáticos de la Universidad de Castilla-La Mancha - DSI
+[www.dsi.uclm.es/](https://www.dsi.uclm.es/)
+
+**Dirección:**     ESII de Albacete, Campus Universitario s/n, Albacete
+
+**Responsable:**   Francisco José Quiles Flor - Director
+
+## Departamento de Ingeniería de Computadores, Universidade da Coruña - DEC-UDC
+[dec.udc.es](dec.udc.es)
+
+**Dirección:**     Departamento de Ingeniería de Computadores, Campus de Elviña s/n, 15071 A Coruña
+
+**Responsable:**   María José Martín Santamaría - Directora del Departamento
