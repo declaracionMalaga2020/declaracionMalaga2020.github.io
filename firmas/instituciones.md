@@ -126,3 +126,80 @@
 **Dirección:**     Departamento de Ingeniería de Computadores, Campus de Elviña s/n, 15071 A Coruña
 
 **Responsable:**   María José Martín Santamaría - Directora del Departamento
+
+## Sociedad de Ingeniería de Software y Tecnologías de Desarrollo Software - SISTEDES
+[www.sistedes.es/](https://www.sistedes.es/)
+
+**Dirección:**     Facultad de Informática, Po M. Lardizabal, 1, Apdo. 649, 20.009 San Sebastián (Guipúzcoa)
+
+**Responsable:**   Antonio Ruiz Cortés - Presidente
+
+## Asociación Interacción Persona-Ordenador - AIPO
+[aipo.es/](https://aipo.es/)
+
+**Dirección:**     C/ Maria de Luna 1,  Dpto de Informatica e Ingenierias de Sistemas, Edificio Ada Byron ,  50018-Zaragoza
+
+**Responsable:**   Lourdes Moreno López - Presidenta
+
+## Escuela Superior de Ingeniería Informática de la Universidad de Castilla-La Mancha - ESII-UCLM
+[esiiab.uclm.es](esiiab.uclm.es)
+
+**Dirección:**     Campus Univ. s/n - Albacete
+
+**Responsable:**   Ismael García Varea - Director del Departamento
+
+## Conferencia de Directores y Decanos de Ingeniería Informática de España - CODDII
+[coddii.org/](https://coddii.org/)
+
+**Dirección:**     ETS Enginyeria Informàtica, Universitat Politècnica de València, Camino de Vera, s/n 46022 – Valencia, España
+
+**Responsable:**   Francisco Javier Soriano Camino - Presidente
+
+## Escuela Técnica Superior de Ingenieros Informáticos de la Universidad Politécnica de Madrid - ETSIINF-UPM
+[etsiinf.upm.es/](http://etsiinf.upm.es/)
+
+**Dirección:**     ETS Ingenieros Informáticos, Universidad Politécnica de Madrid, Campus de Montegancedo, 28660 Boadilla del Monte, Madrid, España
+
+**Responsable:**   Francisco Javier Soriano Camino - Director
+
+## Universidad Internacional de La Rioja - UNIR
+[unir.net](unir.net)
+
+**Dirección:**     Avenida de la Paz 137, 26006, Logroño, La Rioja
+
+**Responsable:**   Pablo Moreno Ger - Director de la Escuela Superior de Ingeniería y Tecnología
+
+## Grupo de investigación WESO (WEb Semántica Oviedo) - WESO
+[www.weso.es](http://www.weso.es)
+
+**Dirección:**     C/Federico García Lorca, S/N, Oviedo, España, CP. 33007
+
+**Responsable:**   Jose Emilio Labra Gayo - Investigador Principal
+
+## Escuela Politécnica Superior de la Universidad de Burgos - EPS
+[www.ubu.es/eps](www.ubu.es/eps)
+
+**Dirección:**     Escuela Politécnica Superior (Universidad de Burgos) Avenida Cantabria s/n 09006 BURGOS
+
+**Responsable:**   Ángel Arroyo - Coordinador de Grado Ingeniería Informática
+
+## Escola Politècnica Superior de la Universitat de Lleida - EPS - UdL
+[www.eps.udl.cat](www.eps.udl.cat)
+
+**Dirección:**     Jaume II, 69. 25001. Lleida
+
+**Responsable:**   Magda Valls Marsal - Directora
+
+## Consejo General de Colegios Oficiales de Ingeniería en Informática - CCII
+[www.ccii.es/](www.ccii.es/)
+
+**Dirección:**     SEDE EJECUTIVA: C/Fernando III O Santo 13, 1ºA. 15701 Santiago de Compostela (A Coruña). SECRETARÍA: C/ Posada Herrera 6, 1º Oficina 2. 33002 Oviedo (Asturias)
+
+**Responsable:**   Fernando Suárez Lorenzo - Presidente
+
+## Colegio Profesional de Ingenieros en Informática de CyL - CPIICyL
+[www.cpiicyl.org/](https://www.cpiicyl.org/)
+
+**Dirección:**     Campus Miguel Dellbes - Paseo de Belén 15, Valladolid C.P. 47011
+
+**Responsable:**   Jaime Diez Zurro - Decano
