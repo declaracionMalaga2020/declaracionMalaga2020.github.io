@@ -210,3 +210,10 @@
 **Dirección:**     Av. de Vicent Sos Baynat s/n, 12071 Castelló de la Plana 
 
 **Responsable:**   Amelia Simó Vidal - Directora
+
+## Asociación de Enseñantes Universitarios de la Informática - AENUI
+[www.aenui.net](http://www.aenui.net)
+
+**Dirección:**     Carretera San Vicente del Raspeig s/n, San Vicente del Raspeig - Alicante
+
+**Responsable:**   Faraón Llorens Largo - Presidente
