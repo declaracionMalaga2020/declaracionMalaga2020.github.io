@@ -695,6 +695,8 @@ Si además deseas sumarte como institución, debes emplear el siguiente formular
 
 - [Asociación Interacción Persona-Ordenador - AIPO](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#asociaci%C3%B3n-interacci%C3%B3n-persona-ordenador---aipo)
 
+- [Asociación de Enseñantes Universitarios de la Informática - AENUI](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#asociaci%C3%B3n-de-ense%C3%B1antes-universitarios-de-la-inform%C3%A1tica---aenui)
+
 ### Institutos y centros de investigación
 
 - [IMDEA Software Institute](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#imdea-software-institute)
