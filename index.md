@@ -705,7 +705,7 @@ Si además deseas sumarte como institución, debes emplear el siguiente formular
 
 - [Universidad Internacional de La Rioja - UNIR](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#universidad-internacional-de-la-rioja---unir)
 
-## Facultades y escuelas
+### Facultades y escuelas
 
 - [Conferencia de Directores y Decanos de Ingeniería Informática de España - CODDII](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#conferencia-de-directores-y-decanos-de-ingenier%C3%ADa-inform%C3%A1tica-de-espa%C3%B1a---coddii)
 
