@@ -203,3 +203,10 @@
 **Dirección:**     Campus Miguel Dellbes - Paseo de Belén 15, Valladolid C.P. 47011
 
 **Responsable:**   Jaime Diez Zurro - Decano
+
+## Escola Superior de Tecnologia i Ciències Experimentals (Universitat Jaume I) - ESTCE-UJI
+[www.uji.es/centres/estce/](https://www.uji.es/centres/estce/)
+
+**Dirección:**     Av. de Vicent Sos Baynat s/n, 12071 Castelló de la Plana 
+
+**Responsable:**   Amelia Simó Vidal - Directora
