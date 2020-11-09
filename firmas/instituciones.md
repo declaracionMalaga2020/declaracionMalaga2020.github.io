@@ -217,3 +217,45 @@
 **Dirección:**     Carretera San Vicente del Raspeig s/n, San Vicente del Raspeig - Alicante
 
 **Responsable:**   Faraón Llorens Largo - Presidente
+
+## Centro de I+D en Métodos de Producción de Software - PROS
+[www.pros.upv.es](www.pros.upv.es)
+
+**Dirección:**     PROS (DSIC-UPV), Camino de Vera s/n; 46022 Valencia
+
+**Responsable:**   Oscar Pastor - Director
+
+## Grupo de Investigación SVIT - SVIT
+[svit.usj.es](https://svit.usj.es)
+
+**Dirección:**     Autovía Mudéjar, km. 299, 50830 Villanueva de Gállego, Zaragoza
+
+**Responsable:**   Carlos Cetina - Investigador Principal
+
+## Sociedad Española para el Procesamiento del Lenguaje Natural - SEPLN
+[www.sepln.org](http://www.sepln.org)
+
+**Dirección:**     Universidad de Jaén. Paraje las Lagunillas s/n. 23071 Jaén.
+
+**Responsable:**   L. Alfonso Ureña López - Presidente
+
+## Eurographics Spanish Section - Eurographics
+[www.eurographics.es/](http://www.eurographics.es/)
+
+**Dirección:**     C/ Emili Grahit 91 Girona Girona 17003 España
+
+**Responsable:**   Nuria Pelechano Gomez - Presidente
+
+## Asociación para el Desarrollo de la Informática Educativa - ADIE
+[adie.es](adie.es)
+
+**Dirección:**     Edificio de Ampliación del Rectorado, despacho 2028. C/ Tulipán s/n. 28933 Móstoles, Madrid
+
+**Responsable:**   Francisco Javier García Peñalvo - Presidente
+
+## Asociación Española de Reconocimiento de Formas y Análisis de Imágenes  - AERFAI
+[www.aerfai.org](www.aerfai.org)
+
+**Dirección:**     Avda. Vicent Sos Baynat, s/n - 12071 Castelló de la Plana
+
+**Responsable:**   José Salvador Sánchez Garreta - Presidente
