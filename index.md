@@ -781,9 +781,17 @@ Si además deseas sumarte como institución, debes emplear el siguiente formular
 
 - [Sociedad de Ingeniería de Software y Tecnologías de Desarrollo Software - SISTEDES](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#sociedad-de-ingenier%C3%ADa-de-software-y-tecnolog%C3%ADas-de-desarrollo-software---sistedes)
 
+- [Sociedad Española para el Procesamiento del Lenguaje Natural - SEPLN](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#sociedad-espa%C3%B1ola-para-el-procesamiento-del-lenguaje-natural---sepln)
+
 - [Asociación Interacción Persona-Ordenador - AIPO](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#asociaci%C3%B3n-interacci%C3%B3n-persona-ordenador---aipo)
 
 - [Asociación de Enseñantes Universitarios de la Informática - AENUI](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#asociaci%C3%B3n-de-ense%C3%B1antes-universitarios-de-la-inform%C3%A1tica---aenui)
+
+- [Eurographics Spanish Section - Eurographics](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#eurographics-spanish-section---eurographics)
+
+- [Asociación para el Desarrollo de la Informática Educativa - ADIE](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#asociaci%C3%B3n-para-el-desarrollo-de-la-inform%C3%A1tica-educativa---adie)
+
+- [Asociación Española de Reconocimiento de Formas y Análisis de Imágenes - AERFAI](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#asociaci%C3%B3n-espa%C3%B1ola-de-reconocimiento-de-formas-y-an%C3%A1lisis-de-im%C3%A1genes----aerfai)
 
 ### Institutos y centros de investigación
 
@@ -797,9 +805,13 @@ Si además deseas sumarte como institución, debes emplear el siguiente formular
 
 - [Centro Singular de Investigación en Tecnologías Inteligentes de la Universidade de Santiago de Compostela - CiTIUS](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#centro-singular-de-investigaci%C3%B3n-en-tecnolog%C3%ADas-inteligentes-de-la-universidade-de-santiago-de-compostela---citius)
 
+- [Centro de I+D en Métodos de Producción de Software - PROS](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#centro-de-id-en-m%C3%A9todos-de-producci%C3%B3n-de-software---pros)
+
 - [Grupo de Investigación Reconocido ECA-SIMM (Universidad de Valladolid) - ECA--SIMM (UVa)](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#grupo-de-investigaci%C3%B3n-reconocido-eca-simm-universidad-de-valladolid---eca--simm-uva)
 
 - [Grupo de investigación WESO (WEb Semántica Oviedo) - WESO](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#grupo-de-investigaci%C3%B3n-weso-web-sem%C3%A1ntica-oviedo---weso)
+
+- [Grupo de Investigación SVIT - SVIT](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#grupo-de-investigaci%C3%B3n-svit---svit)
 
 ### Universidades
 - [Universidad de Cantabria - UNICAN](https://declaracionmalaga2020.github.io/firmas/instituciones#universidad-de-cantabria---unican)
