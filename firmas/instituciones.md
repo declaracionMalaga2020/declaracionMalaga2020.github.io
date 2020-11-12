@@ -259,3 +259,10 @@
 **Dirección:**     Avda. Vicent Sos Baynat, s/n - 12071 Castelló de la Plana
 
 **Responsable:**   José Salvador Sánchez Garreta - Presidente
+
+## Escuela Técnica Superior de Ingeniería Informática de la Universidad de Málaga - ETSII UMA
+[www.uma.es/etsi-informatica](https://www.uma.es/etsi-informatica/)
+
+**Dirección:**     Bulevar Louis Pasteur, 35  29071 - Málaga
+
+**Responsable:**   Manuel Nicólas Enciso García-Oliveros - Director
