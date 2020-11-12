@@ -871,6 +871,8 @@ Si además deseas sumarte como institución, debes emplear el siguiente formular
 
 - [Escola Superior de Tecnologia i Ciències Experimentals (Universitat Jaume I) - ESTCE-UJI](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#escola-superior-de-tecnologia-i-ci%C3%A8ncies-experimentals-universitat-jaume-i---estce-uji)
 
+- [Escuela Técnica Superior de Ingeniería Informática de la Universidad de Málaga - ETSII UMA](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#escuela-t%C3%A9cnica-superior-de-ingenier%C3%ADa-inform%C3%A1tica-de-la-universidad-de-m%C3%A1laga---etsii-uma)
+
 ### Departamentos
 
 - [Dpto. de Arquitectura y Tecnología de Computadores de la Universidad del País Vasco/Euskal Herriko Unibertsitatea - ATC (UPV/EHU)](https://declaracionmalaga2020.github.io/firmas/instituciones#dpto-de-arquitectura-y-tecnolog%C3%ADa-de-computadores-de-la-universidad-del-pa%C3%ADs-vascoeuskal-herriko-unibertsitatea---atc-upvehu)
