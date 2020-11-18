@@ -266,3 +266,31 @@
 **Dirección:**     Bulevar Louis Pasteur, 35  29071 - Málaga
 
 **Responsable:**   Manuel Nicólas Enciso García-Oliveros - Director
+
+## Escuela Politécnica Superior de la Universidad Autónoma de Madrid - EPS-UAM
+[www.eps.uam.es](www.eps.uam.es)
+
+**Dirección:**     Francisco Tomás y Valiente 11, 28049 Madrid
+
+**Responsable:**   José M. Martínez - Director
+
+## Escuela Superior de Ingeniería de la Universidad de Almería - ESI-UAL
+[cms.ual.es/UAL/universidad/centros/esi/index.htm](http://cms.ual.es/UAL/universidad/centros/esi/index.htm)
+
+**Dirección:**     Carretera de Sacramento s/n 04120 Almería
+
+**Responsable:**   Rosa Mª Ayala Palenzuela - Directora
+
+## Universidad de Málaga - UMA
+[www.uma.es](www.uma.es)
+**Dirección:**     Av. de Cervantes, 2, 29016 Málaga
+
+**Responsable:**   José Ángel Narváez Bueno - Rector
+
+## Universidad de Extremadura - UEx
+[https://www.unex.es/](https://www.unex.es/)
+
+**Dirección:**     Plaza Caldereros, 1 - Cáceres
+
+**Responsable:**   Juan Hernández - Vicerrector de Transformación Digital
+
