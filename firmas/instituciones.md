@@ -283,6 +283,7 @@
 
 ## Universidad de Málaga - UMA
 [www.uma.es](www.uma.es)
+
 **Dirección:**     Av. de Cervantes, 2, 29016 Málaga
 
 **Responsable:**   José Ángel Narváez Bueno - Rector
