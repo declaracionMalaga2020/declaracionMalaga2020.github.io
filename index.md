@@ -43,7 +43,7 @@ Si además deseas sumarte como institución, debes emplear el siguiente formular
 
 4. Alonso Betanzos, Amparo - CITIC - Universidade da Coruña
 
-5. Alpuente Frasnedo, María - U. Politécnica de Valencia
+5. Alpuente Frasnedo, María - Universidad Politecnica de Valencia
 
 6. Alvarez Rodríguez , Jose María - Universidad Carlos III de Madrid
 
@@ -115,7 +115,7 @@ Si además deseas sumarte como institución, debes emplear el siguiente formular
 
 40. Bosque, Jose Luis - Universidad de Cantabria
 
-41. Botella López, Pere - UPC Barcelona Tech
+41. Botella López, Pere - Universitat Politècnica de Catalunya (UPC-BarcelonaTech)
 
 42. Boubeta-Puig, Juan - Universidad de Cádiz
 
@@ -177,7 +177,7 @@ Si además deseas sumarte como institución, debes emplear el siguiente formular
 
 71. Conde González, Miguel Ángel - Universidad de León
 
-72. Cordón García, Oscar - Univerisdad de Granada
+72. Cordón García, Oscar - Universidad de Granada
 
 73. Cortés Gracia, Cristóbal - Universidad de Zaragoza
 
@@ -683,7 +683,7 @@ Si además deseas sumarte como institución, debes emplear el siguiente formular
 
 324. Ramírez Quesada, Aurora - Universidad de Córdoba
 
-325. Ramos Salavert, Isidro - Universidad Politécnica Valencia
+325. Ramos Salavert, Isidro - Universidad Politecnica de Valencia
 
 326. Redondo Duque, Miguel Ángel - Universidad de Castilla-La Mancha
 
@@ -837,7 +837,7 @@ Si además deseas sumarte como institución, debes emplear el siguiente formular
 
 401. Vitrià, Jordi - Universitat de Barcelona
 
-402. Vos, Tanja - Universidad Politecnica de Valencia
+402. Vos, Tanja - Universidad de Castilla-La Mancha
 
 403. Zarraonandia Ayo, Telmo - Universidad Carlos III de Madrid
 
