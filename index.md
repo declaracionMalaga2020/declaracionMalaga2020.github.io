@@ -845,6 +845,8 @@ Si además deseas sumarte como institución, debes emplear el siguiente formular
 
 - [Centro de I+D en Métodos de Producción de Software - PROS](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#centro-de-id-en-m%C3%A9todos-de-producci%C3%B3n-de-software---pros)
 
+- [Centro de Investigación en Tecnologías de la Información y las Comunicaciones de la Universidade da Coruña - CITIC](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#centro-de-investigaci%C3%B3n-en-tecnolog%C3%ADas-de-la-informaci%C3%B3n-y-las-comunicaciones-de-la-universidade-da-coru%C3%B1a---citic)
+
 - [Grupo de Investigación Reconocido ECA-SIMM (Universidad de Valladolid) - ECA--SIMM (UVa)](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#grupo-de-investigaci%C3%B3n-reconocido-eca-simm-universidad-de-valladolid---eca--simm-uva)
 
 - [Grupo de investigación WESO (WEb Semántica Oviedo) - WESO](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#grupo-de-investigaci%C3%B3n-weso-web-sem%C3%A1ntica-oviedo---weso)
@@ -855,6 +857,10 @@ Si además deseas sumarte como institución, debes emplear el siguiente formular
 - [Universidad de Cantabria - UNICAN](https://declaracionmalaga2020.github.io/firmas/instituciones#universidad-de-cantabria---unican)
 
 - [Universidad Internacional de La Rioja - UNIR](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#universidad-internacional-de-la-rioja---unir)
+
+- [Universidad de Málaga - UMA](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#universidad-de-m%C3%A1laga---uma)
+
+- [Universidad de Extremadura - UEx](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#universidad-de-extremadura---uex)
 
 ### Facultades y escuelas
 
@@ -874,6 +880,10 @@ Si además deseas sumarte como institución, debes emplear el siguiente formular
 
 - [Escuela Técnica Superior de Ingeniería Informática de la Universidad de Málaga - ETSII UMA](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#escuela-t%C3%A9cnica-superior-de-ingenier%C3%ADa-inform%C3%A1tica-de-la-universidad-de-m%C3%A1laga---etsii-uma)
 
+- [Escuela Politécnica Superior de la Universidad Autónoma de Madrid - EPS-UAM](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#escuela-polit%C3%A9cnica-superior-de-la-universidad-aut%C3%B3noma-de-madrid---eps-uam)
+
+- [Escuela Superior de Ingeniería de la Universidad de Almería - ESI-UAL](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#escuela-superior-de-ingenier%C3%ADa-de-la-universidad-de-almer%C3%ADa---esi-ual)
+
 ### Departamentos
 
 - [Dpto. de Arquitectura y Tecnología de Computadores de la Universidad del País Vasco/Euskal Herriko Unibertsitatea - ATC (UPV/EHU)](https://declaracionmalaga2020.github.io/firmas/instituciones#dpto-de-arquitectura-y-tecnolog%C3%ADa-de-computadores-de-la-universidad-del-pa%C3%ADs-vascoeuskal-herriko-unibertsitatea---atc-upvehu)
@@ -885,6 +895,8 @@ Si además deseas sumarte como institución, debes emplear el siguiente formular
 - [Dpto. de Sistemas Informáticos de la Universidad de Castilla-La Mancha - DSI](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#departamento-de-sistemas-inform%C3%A1ticos-de-la-universidad-de-castilla-la-mancha---dsi)
 
 - [Dpto. de Ingeniería de Computadores, Universidade da Coruña - DEC-UDC](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#departamento-de-ingenier%C3%ADa-de-computadores-universidade-da-coru%C3%B1a---dec-udc)
+
+- [Dpto. de Ciencias de la Computacion e Inteligencia Artificial de la Universidad de Granada - CCIA-UGR](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#departamento-de-ciencias-de-la-computacion-e-inteligencia-artificial-de-la-universidad-de-granada---ccia-ugr)
 
 ### Colegios profesionales
 
