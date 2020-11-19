@@ -302,7 +302,7 @@
 
 **Responsable:**   Manuel Francisco González Penedo - Director
 
-## Departamento de Ciencias de la Computacion e Inteligencia Artificial - CCIA-UGR
+## Departamento de Ciencias de la Computacion e Inteligencia Artificial de la Universidad de Granada - CCIA-UGR
 [decsai.ugr.es/](https://decsai.ugr.es)
 
 **Dirección:**     C/ Pdta. Daniel Saucedo Aranda, s.n.
