@@ -289,9 +289,22 @@
 **Responsable:**   José Ángel Narváez Bueno - Rector
 
 ## Universidad de Extremadura - UEx
-[https://www.unex.es/](https://www.unex.es/)
+[www.unex.es/](https://www.unex.es/)
 
-**Dirección:**     Plaza Caldereros, 1 - Cáceres
+**Dirección:**     Plaza de Caldereros, 1, 10003 Cáceres
 
 **Responsable:**   Juan Hernández - Vicerrector de Transformación Digital
 
+## Centro de Investigación en Tecnologías de la Información y las Comunicaciones de la Universidade da Coruña - CITIC
+[citic.udc.es/](https://citic.udc.es/)
+
+**Dirección:**     CITIC - Campus Elviña s/n; 15071 A Coruña
+
+**Responsable:**   Manuel Francisco González Penedo - Director
+
+## Departamento de Ciencias de la Computacion e Inteligencia Artificial - CCIA-UGR
+[decsai.ugr.es/](https://decsai.ugr.es)
+
+**Dirección:**     C/ Pdta. Daniel Saucedo Aranda, s.n.
+
+**Responsable:**   Juan F. Huete Guadix - Director de Departamento
