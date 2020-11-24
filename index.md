@@ -34,6 +34,10 @@ Si además deseas sumarte como institución, debes emplear el siguiente formular
 
 [https://forms.gle/HXXW7RqDwg9jZRkn7](https://forms.gle/HXXW7RqDwg9jZRkn7)
 
+Hasta el momento se han unido la Agencia Estatal de Investigacion (AEI), la Confederación de Sociedades Científicas de España (COSCE) y las principales Sociedades Científicas españolas relacionadas con la Informática, la Conferencia de Directores y Decanos de Ingeniería Informática de España (CODDII), el Consejo General de Colegios Oficiales de Ingeniería en Informática (CCII), varias universidades españolas, así como Escuelas, Facultades, Departamentos, y Centros e Institutos de Investigación.   
+
+A continuación puedes consultar la lista de [firmantes invididuales](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/index.md#firmas) y más abajo la de las [instituciones que se han adherido a la declaración](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/index.md#firmas-de-instituciones).
+
 ## Firmas
 1. Abascal, Julio - Universidad del País Vasco/Euskal Herriko Unibertsitatea
 
