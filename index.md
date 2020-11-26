@@ -910,6 +910,9 @@ A continuación puedes consultar la lista de [firmantes invididuales](https://gi
 - [Grupo de Investigación SVIT - SVIT](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#grupo-de-investigaci%C3%B3n-svit---svit)
 
 ### Universidades
+
+- [Conferencia de Rectores de las Universidades Españolas - CRUE](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#conferencia-de-rectores-de-las-universidades-espa%C3%B1olas---crue)
+
 - [Universidad de Cantabria - UNICAN](https://declaracionmalaga2020.github.io/firmas/instituciones#universidad-de-cantabria---unican)
 
 - [Universidad Internacional de La Rioja - UNIR](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#universidad-internacional-de-la-rioja---unir)
@@ -921,8 +924,6 @@ A continuación puedes consultar la lista de [firmantes invididuales](https://gi
 ### Facultades y escuelas
 
 - [Conferencia de Directores y Decanos de Ingeniería Informática de España - CODDII](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#conferencia-de-directores-y-decanos-de-ingenier%C3%ADa-inform%C3%A1tica-de-espa%C3%B1a---coddii)
-
-- [Conferencia de Rectores de las Universidades Españolas - CRUE](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#conferencia-de-rectores-de-las-universidades-espa%C3%B1olas---crue)
 
 - [Escuela Superior de Informática de la Universidad de Castilla-La Mancha - ESI](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#escuela-superior-de-inform%C3%A1tica-de-la-universidad-de-castilla-la-mancha---esi)
 
