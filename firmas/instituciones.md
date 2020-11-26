@@ -315,3 +315,17 @@
 **Dirección:**    C/ Torrelaguna 58 bis. 28027 Madrid
 
 **Responsable:**  Enrique Playán Jubillar - Director
+
+## Estudis d'Informàtica, Multimèdia i Telecomunicació - Universitat Oberta de Catalunya - EIMT UOC
+[www.uoc.edu](https://www.uoc.edu)
+
+**Dirección:**    Rambla Poble Nou, 156, Barcelona 08018
+
+**Responsable:**  Daniel Riera Terrén - Director de los Estudios de Informática, Multimedia y Telecomunicación
+
+## Conferencia de Rectores de las Universidades Españolas - CRUE
+[www.crue.org/](https://www.crue.org/)
+
+**Dirección:**    Paseo de Recoletos 27, Madrid
+
+**Responsable:**  José Carlos Gómez Villamandos - Presidente
