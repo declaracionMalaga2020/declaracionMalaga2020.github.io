@@ -922,6 +922,8 @@ A continuación puedes consultar la lista de [firmantes invididuales](https://gi
 
 - [Conferencia de Directores y Decanos de Ingeniería Informática de España - CODDII](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#conferencia-de-directores-y-decanos-de-ingenier%C3%ADa-inform%C3%A1tica-de-espa%C3%B1a---coddii)
 
+- [Conferencia de Rectores de las Universidades Españolas - CRUE](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#conferencia-de-rectores-de-las-universidades-espa%C3%B1olas---crue)
+
 - [Escuela Superior de Informática de la Universidad de Castilla-La Mancha - ESI](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#escuela-superior-de-inform%C3%A1tica-de-la-universidad-de-castilla-la-mancha---esi)
 
 - [Escuela Superior de Ingeniería Informática de la Universidad de Castilla-La Mancha - ESII-UCLM](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#escuela-superior-de-ingenier%C3%ADa-inform%C3%A1tica-de-la-universidad-de-castilla-la-mancha---esii-uclm)
@@ -939,6 +941,8 @@ A continuación puedes consultar la lista de [firmantes invididuales](https://gi
 - [Escuela Politécnica Superior de la Universidad Autónoma de Madrid - EPS-UAM](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#escuela-polit%C3%A9cnica-superior-de-la-universidad-aut%C3%B3noma-de-madrid---eps-uam)
 
 - [Escuela Superior de Ingeniería de la Universidad de Almería - ESI-UAL](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#escuela-superior-de-ingenier%C3%ADa-de-la-universidad-de-almer%C3%ADa---esi-ual)
+
+- [Estudis d'Informàtica, Multimèdia i Telecomunicació - Universitat Oberta de Catalunya - EIMT UOC](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#estudis-dinform%C3%A0tica-multim%C3%A8dia-i-telecomunicaci%C3%B3---universitat-oberta-de-catalunya---eimt-uoc)
 
 ### Departamentos
 
