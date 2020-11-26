@@ -1,4 +1,5 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/26405870/93817565-75640700-fc59-11ea-9c58-fd101f4ec5e0.png" /></p>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # La Declaración de Málaga sobre la Evaluación de la Investigación en Informática
 
