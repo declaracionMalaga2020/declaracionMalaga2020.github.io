@@ -35,7 +35,7 @@ Si además deseas sumarte como institución, debes emplear el siguiente formular
 
 [https://forms.gle/HXXW7RqDwg9jZRkn7](https://forms.gle/HXXW7RqDwg9jZRkn7)
 
-Hasta el momento se han unido la Agencia Estatal de Investigacion (AEI), la Confederación de Sociedades Científicas de España (COSCE) y las principales Sociedades Científicas españolas relacionadas con la Informática, la Conferencia de Directores y Decanos de Ingeniería Informática de España (CODDII), el Consejo General de Colegios Oficiales de Ingeniería en Informática (CCII), varias universidades españolas, así como Escuelas, Facultades, Departamentos, y Centros e Institutos de Investigación.   
+Hasta el momento se han unido la Agencia Estatal de Investigacion (AEI), la Confederación de Sociedades Científicas de España (COSCE) y las principales Sociedades Científicas españolas relacionadas con la Informática, la Conferencia de Rectores de las Universidades Españolas (CRUE), la Conferencia de Directores y Decanos de Ingeniería Informática (CODDII), el Consejo General de Colegios Oficiales de Ingeniería en Informática (CCII), varias universidades españolas, así como Escuelas, Facultades, Departamentos, y Centros e Institutos de Investigación.   
 
 A continuación puedes consultar la lista de [firmantes invididuales](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/index.md#firmas) y más abajo la de las [instituciones que se han adherido a la declaración](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/index.md#firmas-de-instituciones).
 
@@ -888,6 +888,18 @@ A continuación puedes consultar la lista de [firmantes invididuales](https://gi
 
 - [Asociación Española de Reconocimiento de Formas y Análisis de Imágenes - AERFAI](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#asociaci%C3%B3n-espa%C3%B1ola-de-reconocimiento-de-formas-y-an%C3%A1lisis-de-im%C3%A1genes----aerfai)
 
+### Universidades
+
+- [Conferencia de Rectores de las Universidades Españolas - CRUE](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#conferencia-de-rectores-de-las-universidades-espa%C3%B1olas---crue)
+
+- [Universidad de Cantabria - UNICAN](https://declaracionmalaga2020.github.io/firmas/instituciones#universidad-de-cantabria---unican)
+
+- [Universidad Internacional de La Rioja - UNIR](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#universidad-internacional-de-la-rioja---unir)
+
+- [Universidad de Málaga - UMA](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#universidad-de-m%C3%A1laga---uma)
+
+- [Universidad de Extremadura - UEx](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#universidad-de-extremadura---uex)
+
 ### Institutos y centros de investigación
 
 - [IMDEA Software Institute](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#imdea-software-institute)
@@ -909,18 +921,6 @@ A continuación puedes consultar la lista de [firmantes invididuales](https://gi
 - [Grupo de investigación WESO (WEb Semántica Oviedo) - WESO](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#grupo-de-investigaci%C3%B3n-weso-web-sem%C3%A1ntica-oviedo---weso)
 
 - [Grupo de Investigación SVIT - SVIT](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#grupo-de-investigaci%C3%B3n-svit---svit)
-
-### Universidades
-
-- [Conferencia de Rectores de las Universidades Españolas - CRUE](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#conferencia-de-rectores-de-las-universidades-espa%C3%B1olas---crue)
-
-- [Universidad de Cantabria - UNICAN](https://declaracionmalaga2020.github.io/firmas/instituciones#universidad-de-cantabria---unican)
-
-- [Universidad Internacional de La Rioja - UNIR](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#universidad-internacional-de-la-rioja---unir)
-
-- [Universidad de Málaga - UMA](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#universidad-de-m%C3%A1laga---uma)
-
-- [Universidad de Extremadura - UEx](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#universidad-de-extremadura---uex)
 
 ### Facultades y escuelas
 
