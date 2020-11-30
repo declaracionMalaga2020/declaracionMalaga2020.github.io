@@ -894,104 +894,104 @@ A continuación puedes consultar la lista de [firmantes invididuales](https://gi
 
 ### Agencias y sociedades científicas
 
-- [Agencia Estatal de Investigación - AEI](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#agencia-estatal-de-investigaci%C3%B3n---aei)
+- [Agencia Estatal de Investigación - AEI](declaracionMalaga2020.github.io/firmas/instituciones#agencia-estatal-de-investigaci%C3%B3n---aei)
 
-- [Confederación de Sociedades Científicas de España - COSCE](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#confederaci%C3%B3n-de-sociedades-cient%C3%ADficas-de-espa%C3%B1a---cosce)
+- [Confederación de Sociedades Científicas de España - COSCE](declaracionMalaga2020.github.io/firmas/instituciones#confederaci%C3%B3n-de-sociedades-cient%C3%ADficas-de-espa%C3%B1a---cosce)
 
-- [Asociación Española para la Inteligencia Artificial - AEPIA](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#asociaci%C3%B3n-espa%C3%B1ola-para-la-inteligencia-artificial---aepia)
+- [Asociación Española para la Inteligencia Artificial - AEPIA](declaracionMalaga2020.github.io/firmas/instituciones#asociaci%C3%B3n-espa%C3%B1ola-para-la-inteligencia-artificial---aepia)
 
-- [Sociedad Española de Arquitectura y Tecnología de Computadores - SARTECO](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#sociedad-espa%C3%B1ola-de-arquitectura-y-tecnolog%C3%ADa-de-computadores---sarteco)
+- [Sociedad Española de Arquitectura y Tecnología de Computadores - SARTECO](declaracionMalaga2020.github.io/firmas/instituciones#sociedad-espa%C3%B1ola-de-arquitectura-y-tecnolog%C3%ADa-de-computadores---sarteco)
 
-- [Sociedad de Ingeniería de Software y Tecnologías de Desarrollo Software - SISTEDES](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#sociedad-de-ingenier%C3%ADa-de-software-y-tecnolog%C3%ADas-de-desarrollo-software---sistedes)
+- [Sociedad de Ingeniería de Software y Tecnologías de Desarrollo Software - SISTEDES](declaracionMalaga2020.github.io/firmas/instituciones#sociedad-de-ingenier%C3%ADa-de-software-y-tecnolog%C3%ADas-de-desarrollo-software---sistedes)
 
-- [Sociedad Española para el Procesamiento del Lenguaje Natural - SEPLN](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#sociedad-espa%C3%B1ola-para-el-procesamiento-del-lenguaje-natural---sepln)
+- [Sociedad Española para el Procesamiento del Lenguaje Natural - SEPLN](declaracionMalaga2020.github.io/firmas/instituciones#sociedad-espa%C3%B1ola-para-el-procesamiento-del-lenguaje-natural---sepln)
 
-- [Asociación Interacción Persona-Ordenador - AIPO](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#asociaci%C3%B3n-interacci%C3%B3n-persona-ordenador---aipo)
+- [Asociación Interacción Persona-Ordenador - AIPO](declaracionMalaga2020.github.io/firmas/instituciones#asociaci%C3%B3n-interacci%C3%B3n-persona-ordenador---aipo)
 
-- [Asociación de Enseñantes Universitarios de la Informática - AENUI](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#asociaci%C3%B3n-de-ense%C3%B1antes-universitarios-de-la-inform%C3%A1tica---aenui)
+- [Asociación de Enseñantes Universitarios de la Informática - AENUI](declaracionMalaga2020.github.io/firmas/instituciones#asociaci%C3%B3n-de-ense%C3%B1antes-universitarios-de-la-inform%C3%A1tica---aenui)
 
-- [Eurographics Spanish Section - Eurographics](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#eurographics-spanish-section---eurographics)
+- [Eurographics Spanish Section - Eurographics](declaracionMalaga2020.github.io/firmas/instituciones#eurographics-spanish-section---eurographics)
 
-- [Asociación para el Desarrollo de la Informática Educativa - ADIE](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#asociaci%C3%B3n-para-el-desarrollo-de-la-inform%C3%A1tica-educativa---adie)
+- [Asociación para el Desarrollo de la Informática Educativa - ADIE](declaracionMalaga2020.github.io/firmas/instituciones#asociaci%C3%B3n-para-el-desarrollo-de-la-inform%C3%A1tica-educativa---adie)
 
-- [Asociación Española de Reconocimiento de Formas y Análisis de Imágenes - AERFAI](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#asociaci%C3%B3n-espa%C3%B1ola-de-reconocimiento-de-formas-y-an%C3%A1lisis-de-im%C3%A1genes----aerfai)
+- [Asociación Española de Reconocimiento de Formas y Análisis de Imágenes - AERFAI](declaracionMalaga2020.github.io/firmas/instituciones#asociaci%C3%B3n-espa%C3%B1ola-de-reconocimiento-de-formas-y-an%C3%A1lisis-de-im%C3%A1genes----aerfai)
 
 ### Universidades
 
-- [Conferencia de Rectores de las Universidades Españolas - CRUE](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#conferencia-de-rectores-de-las-universidades-espa%C3%B1olas---crue)
+- [Conferencia de Rectores de las Universidades Españolas - CRUE](declaracionMalaga2020.github.io/firmas/instituciones#conferencia-de-rectores-de-las-universidades-espa%C3%B1olas---crue)
 
 - [Universidad de Cantabria - UNICAN](https://declaracionmalaga2020.github.io/firmas/instituciones#universidad-de-cantabria---unican)
 
-- [Universidad Internacional de La Rioja - UNIR](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#universidad-internacional-de-la-rioja---unir)
+- [Universidad Internacional de La Rioja - UNIR](declaracionMalaga2020.github.io/firmas/instituciones#universidad-internacional-de-la-rioja---unir)
 
-- [Universidad de Málaga - UMA](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#universidad-de-m%C3%A1laga---uma)
+- [Universidad de Málaga - UMA](declaracionMalaga2020.github.io/firmas/instituciones#universidad-de-m%C3%A1laga---uma)
 
-- [Universidad de Extremadura - UEx](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#universidad-de-extremadura---uex)
+- [Universidad de Extremadura - UEx](declaracionMalaga2020.github.io/firmas/instituciones#universidad-de-extremadura---uex)
 
 ### Institutos y centros de investigación
 
-- [IMDEA Software Institute](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#imdea-software-institute)
+- [IMDEA Software Institute](declaracionMalaga2020.github.io/firmas/instituciones#imdea-software-institute)
 
 - [Instituto de Investigación en Informática de Albacete - i3A](https://declaracionmalaga2020.github.io/firmas/instituciones#instituto-de-investigaci%C3%B3n-en-inform%C3%A1tica-de-albacete---i3a)
 
-- [HiTZ: Centro Vasco de Tecnología de la Lengua - HiTZ](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#hitz-centro-vasco-de-tecnolog%C3%ADa-de-la-lengua---hitz)
+- [HiTZ: Centro Vasco de Tecnología de la Lengua - HiTZ](declaracionMalaga2020.github.io/firmas/instituciones#hitz-centro-vasco-de-tecnolog%C3%ADa-de-la-lengua---hitz)
 
-- [Instituto de Tecnología e Ingeniería del Software de la Universidad de Málaga - ITIS Software](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#instituto-de-tecnolog%C3%ADa-e-ingenier%C3%ADa-del-software-de-la-universidad-de-m%C3%A1laga---itis-software)
+- [Instituto de Tecnología e Ingeniería del Software de la Universidad de Málaga - ITIS Software](declaracionMalaga2020.github.io/firmas/instituciones#instituto-de-tecnolog%C3%ADa-e-ingenier%C3%ADa-del-software-de-la-universidad-de-m%C3%A1laga---itis-software)
 
-- [Centro Singular de Investigación en Tecnologías Inteligentes de la Universidade de Santiago de Compostela - CiTIUS](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#centro-singular-de-investigaci%C3%B3n-en-tecnolog%C3%ADas-inteligentes-de-la-universidade-de-santiago-de-compostela---citius)
+- [Centro Singular de Investigación en Tecnologías Inteligentes de la Universidade de Santiago de Compostela - CiTIUS](declaracionMalaga2020.github.io/firmas/instituciones#centro-singular-de-investigaci%C3%B3n-en-tecnolog%C3%ADas-inteligentes-de-la-universidade-de-santiago-de-compostela---citius)
 
-- [Centro de I+D en Métodos de Producción de Software - PROS](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#centro-de-id-en-m%C3%A9todos-de-producci%C3%B3n-de-software---pros)
+- [Centro de I+D en Métodos de Producción de Software - PROS](declaracionMalaga2020.github.io/firmas/instituciones#centro-de-id-en-m%C3%A9todos-de-producci%C3%B3n-de-software---pros)
 
-- [Centro de Investigación en Tecnologías de la Información y las Comunicaciones de la Universidade da Coruña - CITIC](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#centro-de-investigaci%C3%B3n-en-tecnolog%C3%ADas-de-la-informaci%C3%B3n-y-las-comunicaciones-de-la-universidade-da-coru%C3%B1a---citic)
+- [Centro de Investigación en Tecnologías de la Información y las Comunicaciones de la Universidade da Coruña - CITIC](declaracionMalaga2020.github.io/firmas/instituciones#centro-de-investigaci%C3%B3n-en-tecnolog%C3%ADas-de-la-informaci%C3%B3n-y-las-comunicaciones-de-la-universidade-da-coru%C3%B1a---citic)
 
-- [Grupo de Investigación Reconocido ECA-SIMM (Universidad de Valladolid) - ECA--SIMM (UVa)](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#grupo-de-investigaci%C3%B3n-reconocido-eca-simm-universidad-de-valladolid---eca--simm-uva)
+- [Grupo de Investigación Reconocido ECA-SIMM (Universidad de Valladolid) - ECA--SIMM (UVa)](declaracionMalaga2020.github.io/firmas/instituciones#grupo-de-investigaci%C3%B3n-reconocido-eca-simm-universidad-de-valladolid---eca--simm-uva)
 
-- [Grupo de investigación WESO (WEb Semántica Oviedo) - WESO](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#grupo-de-investigaci%C3%B3n-weso-web-sem%C3%A1ntica-oviedo---weso)
+- [Grupo de investigación WESO (WEb Semántica Oviedo) - WESO](declaracionMalaga2020.github.io/firmas/instituciones#grupo-de-investigaci%C3%B3n-weso-web-sem%C3%A1ntica-oviedo---weso)
 
-- [Grupo de Investigación SVIT - SVIT](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#grupo-de-investigaci%C3%B3n-svit---svit)
+- [Grupo de Investigación SVIT - SVIT](declaracionMalaga2020.github.io/firmas/instituciones#grupo-de-investigaci%C3%B3n-svit---svit)
 
 ### Facultades y escuelas
 
-- [Conferencia de Directores y Decanos de Ingeniería Informática de España - CODDII](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#conferencia-de-directores-y-decanos-de-ingenier%C3%ADa-inform%C3%A1tica-de-espa%C3%B1a---coddii)
+- [Conferencia de Directores y Decanos de Ingeniería Informática de España - CODDII](declaracionMalaga2020.github.io/firmas/instituciones#conferencia-de-directores-y-decanos-de-ingenier%C3%ADa-inform%C3%A1tica-de-espa%C3%B1a---coddii)
 
-- [Escuela Superior de Informática de la Universidad de Castilla-La Mancha - ESI](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#escuela-superior-de-inform%C3%A1tica-de-la-universidad-de-castilla-la-mancha---esi)
+- [Escuela Superior de Informática de la Universidad de Castilla-La Mancha - ESI](declaracionMalaga2020.github.io/firmas/instituciones#escuela-superior-de-inform%C3%A1tica-de-la-universidad-de-castilla-la-mancha---esi)
 
-- [Escuela Superior de Ingeniería Informática de la Universidad de Castilla-La Mancha - ESII-UCLM](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#escuela-superior-de-ingenier%C3%ADa-inform%C3%A1tica-de-la-universidad-de-castilla-la-mancha---esii-uclm)
+- [Escuela Superior de Ingeniería Informática de la Universidad de Castilla-La Mancha - ESII-UCLM](declaracionMalaga2020.github.io/firmas/instituciones#escuela-superior-de-ingenier%C3%ADa-inform%C3%A1tica-de-la-universidad-de-castilla-la-mancha---esii-uclm)
 
-- [Escuela Técnica Superior de Ingenieros Informáticos de la Universidad Politécnica de Madrid - ETSIINF-UPM](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#escuela-t%C3%A9cnica-superior-de-ingenieros-inform%C3%A1ticos-de-la-universidad-polit%C3%A9cnica-de-madrid---etsiinf-upm)
+- [Escuela Técnica Superior de Ingenieros Informáticos de la Universidad Politécnica de Madrid - ETSIINF-UPM](declaracionMalaga2020.github.io/firmas/instituciones#escuela-t%C3%A9cnica-superior-de-ingenieros-inform%C3%A1ticos-de-la-universidad-polit%C3%A9cnica-de-madrid---etsiinf-upm)
 
-- [Escuela Politécnica Superior de la Universidad de Burgos - EPS](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#escuela-polit%C3%A9cnica-superior-de-la-universidad-de-burgos---eps)
+- [Escuela Politécnica Superior de la Universidad de Burgos - EPS](declaracionMalaga2020.github.io/firmas/instituciones#escuela-polit%C3%A9cnica-superior-de-la-universidad-de-burgos---eps)
 
-- [Escola Politècnica Superior de la Universitat de Lleida - EPS - UdL](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#escola-polit%C3%A8cnica-superior-de-la-universitat-de-lleida---eps---udl)
+- [Escola Politècnica Superior de la Universitat de Lleida - EPS - UdL](declaracionMalaga2020.github.io/firmas/instituciones#escola-polit%C3%A8cnica-superior-de-la-universitat-de-lleida---eps---udl)
 
-- [Escola Superior de Tecnologia i Ciències Experimentals (Universitat Jaume I) - ESTCE-UJI](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#escola-superior-de-tecnologia-i-ci%C3%A8ncies-experimentals-universitat-jaume-i---estce-uji)
+- [Escola Superior de Tecnologia i Ciències Experimentals (Universitat Jaume I) - ESTCE-UJI](declaracionMalaga2020.github.io/firmas/instituciones#escola-superior-de-tecnologia-i-ci%C3%A8ncies-experimentals-universitat-jaume-i---estce-uji)
 
-- [Escuela Técnica Superior de Ingeniería Informática de la Universidad de Málaga - ETSII UMA](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#escuela-t%C3%A9cnica-superior-de-ingenier%C3%ADa-inform%C3%A1tica-de-la-universidad-de-m%C3%A1laga---etsii-uma)
+- [Escuela Técnica Superior de Ingeniería Informática de la Universidad de Málaga - ETSII UMA](declaracionMalaga2020.github.io/firmas/instituciones#escuela-t%C3%A9cnica-superior-de-ingenier%C3%ADa-inform%C3%A1tica-de-la-universidad-de-m%C3%A1laga---etsii-uma)
 
-- [Escuela Politécnica Superior de la Universidad Autónoma de Madrid - EPS-UAM](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#escuela-polit%C3%A9cnica-superior-de-la-universidad-aut%C3%B3noma-de-madrid---eps-uam)
+- [Escuela Politécnica Superior de la Universidad Autónoma de Madrid - EPS-UAM](declaracionMalaga2020.github.io/firmas/instituciones#escuela-polit%C3%A9cnica-superior-de-la-universidad-aut%C3%B3noma-de-madrid---eps-uam)
 
-- [Escuela Superior de Ingeniería de la Universidad de Almería - ESI-UAL](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#escuela-superior-de-ingenier%C3%ADa-de-la-universidad-de-almer%C3%ADa---esi-ual)
+- [Escuela Superior de Ingeniería de la Universidad de Almería - ESI-UAL](declaracionMalaga2020.github.io/firmas/instituciones#escuela-superior-de-ingenier%C3%ADa-de-la-universidad-de-almer%C3%ADa---esi-ual)
 
-- [Estudis d'Informàtica, Multimèdia i Telecomunicació - Universitat Oberta de Catalunya - EIMT UOC](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#estudis-dinform%C3%A0tica-multim%C3%A8dia-i-telecomunicaci%C3%B3---universitat-oberta-de-catalunya---eimt-uoc)
+- [Estudis d'Informàtica, Multimèdia i Telecomunicació - Universitat Oberta de Catalunya - EIMT UOC](declaracionMalaga2020.github.io/firmas/instituciones#estudis-dinform%C3%A0tica-multim%C3%A8dia-i-telecomunicaci%C3%B3---universitat-oberta-de-catalunya---eimt-uoc)
 
 ### Departamentos
 
 - [Dpto. de Arquitectura y Tecnología de Computadores de la Universidad del País Vasco/Euskal Herriko Unibertsitatea - ATC (UPV/EHU)](https://declaracionmalaga2020.github.io/firmas/instituciones#dpto-de-arquitectura-y-tecnolog%C3%ADa-de-computadores-de-la-universidad-del-pa%C3%ADs-vascoeuskal-herriko-unibertsitatea---atc-upvehu)
 
-- [Dpto. de Informática de la Universidad Carlos III de Madrid - UC3M](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#departamento-de-inform%C3%A1tica-de-la-universidad-carlos-iii-de-madrid---uc3m)
+- [Dpto. de Informática de la Universidad Carlos III de Madrid - UC3M](declaracionMalaga2020.github.io/firmas/instituciones#departamento-de-inform%C3%A1tica-de-la-universidad-carlos-iii-de-madrid---uc3m)
 
-- [Dpto. de Tecnologías y Sistemas de Información de la Universidad de Castilla La Mancha - DTSI-UCLM](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#departamento-de-tecnolog%C3%ADas-y-sistemas-de-informaci%C3%B3n-de-la-universidad-de-castilla-la-mancha---dtsi-uclm)
+- [Dpto. de Tecnologías y Sistemas de Información de la Universidad de Castilla La Mancha - DTSI-UCLM](declaracionMalaga2020.github.io/firmas/instituciones#departamento-de-tecnolog%C3%ADas-y-sistemas-de-informaci%C3%B3n-de-la-universidad-de-castilla-la-mancha---dtsi-uclm)
 
-- [Dpto. de Sistemas Informáticos de la Universidad de Castilla-La Mancha - DSI](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#departamento-de-sistemas-inform%C3%A1ticos-de-la-universidad-de-castilla-la-mancha---dsi)
+- [Dpto. de Sistemas Informáticos de la Universidad de Castilla-La Mancha - DSI](declaracionMalaga2020.github.io/firmas/instituciones#departamento-de-sistemas-inform%C3%A1ticos-de-la-universidad-de-castilla-la-mancha---dsi)
 
-- [Dpto. de Ingeniería de Computadores, Universidade da Coruña - DEC-UDC](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#departamento-de-ingenier%C3%ADa-de-computadores-universidade-da-coru%C3%B1a---dec-udc)
+- [Dpto. de Ingeniería de Computadores, Universidade da Coruña - DEC-UDC](declaracionMalaga2020.github.io/firmas/instituciones#departamento-de-ingenier%C3%ADa-de-computadores-universidade-da-coru%C3%B1a---dec-udc)
 
-- [Dpto. de Ciencias de la Computacion e Inteligencia Artificial de la Universidad de Granada - CCIA-UGR](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#departamento-de-ciencias-de-la-computacion-e-inteligencia-artificial-de-la-universidad-de-granada---ccia-ugr)
+- [Dpto. de Ciencias de la Computacion e Inteligencia Artificial de la Universidad de Granada - CCIA-UGR](declaracionMalaga2020.github.io/firmas/instituciones#departamento-de-ciencias-de-la-computacion-e-inteligencia-artificial-de-la-universidad-de-granada---ccia-ugr)
 
 ### Colegios profesionales
 
-- [Consejo General de Colegios Oficiales de Ingeniería en Informática - CCII](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#consejo-general-de-colegios-oficiales-de-ingenier%C3%ADa-en-inform%C3%A1tica---ccii)
+- [Consejo General de Colegios Oficiales de Ingeniería en Informática - CCII](declaracionMalaga2020.github.io/firmas/instituciones#consejo-general-de-colegios-oficiales-de-ingenier%C3%ADa-en-inform%C3%A1tica---ccii)
 
-- [Colexio Profesional de Enxeñaría en Informática de Galicia - CPEIG](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#colexio-profesional-de-enxe%C3%B1ar%C3%ADa-en-inform%C3%A1tica-de-galicia---cpeig)
+- [Colexio Profesional de Enxeñaría en Informática de Galicia - CPEIG](declaracionMalaga2020.github.io/firmas/instituciones#colexio-profesional-de-enxe%C3%B1ar%C3%ADa-en-inform%C3%A1tica-de-galicia---cpeig)
 
-- [Colegio Profesional de Ingenieros en Informática de CyL - CPIICyL](https://github.com/declaracionMalaga2020/declaracionMalaga2020.github.io/blob/master/firmas/instituciones.md#colegio-profesional-de-ingenieros-en-inform%C3%A1tica-de-cyl---cpiicyl)
+- [Colegio Profesional de Ingenieros en Informática de CyL - CPIICyL](declaracionMalaga2020.github.io/firmas/instituciones#colegio-profesional-de-ingenieros-en-inform%C3%A1tica-de-cyl---cpiicyl)
