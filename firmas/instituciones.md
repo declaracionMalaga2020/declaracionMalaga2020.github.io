@@ -329,3 +329,10 @@
 **Dirección:**    Paseo de Recoletos 27, Madrid
 
 **Responsable:**  José Carlos Gómez Villamandos - Presidente
+
+## Internet Interdisciplinary Institute, Universitat Oberta de Catalunya - IN3 UOC
+[www.uoc.edu/portal/es/in3/index.html](https://www.uoc.edu/portal/es/in3/index.html)
+
+**Dirección:**    Av. Carl Friedrich Gauss, 5, 08860 Castelldefels (Barcelona)
+
+**Responsable:**  David Megías Jiménez - Director
