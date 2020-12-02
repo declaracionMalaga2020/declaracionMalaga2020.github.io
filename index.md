@@ -938,6 +938,8 @@ A continuación puedes consultar la lista de [firmantes invididuales](https://gi
 
 - [Instituto de Tecnología e Ingeniería del Software de la Universidad de Málaga - ITIS Software](declaracionMalaga2020.github.io/firmas/instituciones#instituto-de-tecnolog%C3%ADa-e-ingenier%C3%ADa-del-software-de-la-universidad-de-m%C3%A1laga---itis-software)
 
+- [Internet Interdisciplinary Institute, Universitat Oberta de Catalunya - IN3 UOC](https://declaracionmalaga2020.github.io/firmas/instituciones#internet-interdisciplinary-institute-universitat-oberta-de-catalunya---in3-uoc)
+
 - [Centro Singular de Investigación en Tecnologías Inteligentes de la Universidade de Santiago de Compostela - CiTIUS](declaracionMalaga2020.github.io/firmas/instituciones#centro-singular-de-investigaci%C3%B3n-en-tecnolog%C3%ADas-inteligentes-de-la-universidade-de-santiago-de-compostela---citius)
 
 - [Centro de I+D en Métodos de Producción de Software - PROS](declaracionMalaga2020.github.io/firmas/instituciones#centro-de-id-en-m%C3%A9todos-de-producci%C3%B3n-de-software---pros)
