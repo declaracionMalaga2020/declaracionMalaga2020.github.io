@@ -922,6 +922,8 @@ A continuación puedes consultar la lista de [firmantes invididuales](https://gi
 
 - [Asociación Española de Reconocimiento de Formas y Análisis de Imágenes - AERFAI](declaracionMalaga2020.github.io/firmas/instituciones#asociaci%C3%B3n-espa%C3%B1ola-de-reconocimiento-de-formas-y-an%C3%A1lisis-de-im%C3%A1genes----aerfai)
 
+- [Reunión de Estudiantes de Ingenierías Técnicas y Superiores en Informática - RITSI](https://declaracionmalaga2020.github.io/firmas/instituciones#reuni%C3%B3n-de-estudiantes-de-ingenier%C3%ADas-t%C3%A9cnicas-y-superiores-en-inform%C3%A1tica---ritsi)
+
 ### Universidades
 
 - [Conferencia de Rectores de las Universidades Españolas - CRUE](declaracionMalaga2020.github.io/firmas/instituciones#conferencia-de-rectores-de-las-universidades-espa%C3%B1olas---crue)
