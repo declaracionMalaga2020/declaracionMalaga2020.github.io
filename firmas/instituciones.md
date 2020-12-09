@@ -336,3 +336,11 @@
 **Dirección:**    Av. Carl Friedrich Gauss, 5, 08860 Castelldefels (Barcelona)
 
 **Responsable:**  David Megías Jiménez - Director
+
+
+## Reunión de Estudiantes de Ingenierías Técnicas y Superiores en Informática - RITSI
+[ritsi.org/](https://ritsi.org/)
+
+**Dirección:**    Paseo de los Estudiantes S/N Delegación de Alumnos ESII UCLM Albacete (02006 - Albacete)
+
+**Responsable:**  Aitor Sánchez Ferrera - Presidencia
