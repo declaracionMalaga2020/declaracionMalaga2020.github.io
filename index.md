@@ -987,6 +987,8 @@ A continuación puedes consultar la lista de [firmantes invididuales](https://gi
 
 - [Estudis d'Informàtica, Multimèdia i Telecomunicació - Universitat Oberta de Catalunya - EIMT UOC](declaracionMalaga2020.github.io/firmas/instituciones#estudis-dinform%C3%A0tica-multim%C3%A8dia-i-telecomunicaci%C3%B3---universitat-oberta-de-catalunya---eimt-uoc)
 
+- [Escuela Politécnica Superior de la Universidad Carlos III de Madrid - EPS-UC3M](https://declaracionmalaga2020.github.io/firmas/instituciones#escuela-polit%C3%A9cnica-superior-de-la-universidad-carlos-iii-de-madrid---eps-uc3m)
+
 ### Departamentos
 
 - [Dpto. de Arquitectura y Tecnología de Computadores de la Universidad del País Vasco/Euskal Herriko Unibertsitatea - ATC (UPV/EHU)](https://declaracionmalaga2020.github.io/firmas/instituciones#dpto-de-arquitectura-y-tecnolog%C3%ADa-de-computadores-de-la-universidad-del-pa%C3%ADs-vascoeuskal-herriko-unibertsitatea---atc-upvehu)
@@ -1000,6 +1002,8 @@ A continuación puedes consultar la lista de [firmantes invididuales](https://gi
 - [Dpto. de Ingeniería de Computadores, Universidade da Coruña - DEC-UDC](declaracionMalaga2020.github.io/firmas/instituciones#departamento-de-ingenier%C3%ADa-de-computadores-universidade-da-coru%C3%B1a---dec-udc)
 
 - [Dpto. de Ciencias de la Computacion e Inteligencia Artificial de la Universidad de Granada - CCIA-UGR](declaracionMalaga2020.github.io/firmas/instituciones#departamento-de-ciencias-de-la-computacion-e-inteligencia-artificial-de-la-universidad-de-granada---ccia-ugr)
+
+- [Dpto. de Lenguajes y Sistemas Informáticos de la UPV/EHU - LSI (UPV/EHU)](https://declaracionmalaga2020.github.io/firmas/instituciones#departamento-de-lenguajes-y-sistemas-inform%C3%A1ticos-de-la-upvehu---lsi-upvehu)
 
 ### Colegios profesionales
 
