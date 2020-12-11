@@ -344,3 +344,17 @@
 **Dirección:**    Paseo de los Estudiantes S/N Delegación de Alumnos ESII UCLM Albacete (02006 - Albacete)
 
 **Responsable:**  Aitor Sánchez Ferrera - Presidencia
+
+## Departamento de Lenguajes y Sistemas Informáticos de la UPV/EHU - LSI (UPV/EHU)
+[www.ehu.eus/es/web/lsi/aurkezpena](https://www.ehu.eus/es/web/lsi/aurkezpena)
+
+**Dirección:**    Facultad de Informática. Paseo Manuel de Lardizabal, 1. 20018 Donostia-San Sebastián
+
+**Responsable:**  Montserrat Hermo Huguet - Directora del Departamento
+
+## Escuela Politécnica Superior de la Universidad Carlos III de Madrid - EPS-UC3M
+[www.uc3m.es/eps/inicio](https://www.uc3m.es/eps/inicio)
+
+**Dirección:**    Avenida de la Universidad 30, Leganés
+
+**Responsable:**  Paloma Díaz Pérez - Directora de la EPS
