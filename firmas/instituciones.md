@@ -113,7 +113,7 @@
 
 **Responsable:**   Senén Barro Ameneiro - Director
 
-## Departamento de Sistemas Informáticos de la Universidad de Castilla-La Mancha - DSI
+## Departamento de Sistemas Informáticos de la Universidad de Castilla-La Mancha - DSI-UCLM
 [www.dsi.uclm.es/](https://www.dsi.uclm.es/)
 
 **Dirección:**     ESII de Albacete, Campus Universitario s/n, Albacete
@@ -176,14 +176,14 @@
 
 **Responsable:**   Jose Emilio Labra Gayo - Investigador Principal
 
-## Escuela Politécnica Superior de la Universidad de Burgos - EPS
+## Escuela Politécnica Superior de la Universidad de Burgos - EPS-UBU
 [www.ubu.es/eps](www.ubu.es/eps)
 
 **Dirección:**     Escuela Politécnica Superior (Universidad de Burgos) Avenida Cantabria s/n 09006 BURGOS
 
 **Responsable:**   Ángel Arroyo - Coordinador de Grado Ingeniería Informática
 
-## Escola Politècnica Superior de la Universitat de Lleida - EPS - UdL
+## Escola Politècnica Superior de la Universitat de Lleida - EPS-UdL
 [www.eps.udl.cat](www.eps.udl.cat)
 
 **Dirección:**     Jaume II, 69. 25001. Lleida
