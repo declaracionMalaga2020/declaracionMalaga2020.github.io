@@ -358,3 +358,10 @@
 **Dirección:**    Avenida de la Universidad 30, Leganés
 
 **Responsable:**  Paloma Díaz Pérez - Directora de la EPS
+
+## Departamento de Informática de la Universitat de València - DPTINF-UV
+[www.uv.es/dptinf](https://www.uv.es/dptinf)
+
+**Dirección:**    Avd. Universitat s/n, Burjasot
+
+**Responsable:**  Silvia Rueda Pascual - Directora de Departamento
