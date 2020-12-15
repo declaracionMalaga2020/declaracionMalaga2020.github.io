@@ -1009,6 +1009,8 @@ A continuación puedes consultar la lista de [firmantes invididuales](https://gi
 
 - [Dpto. de Lenguajes y Sistemas Informáticos de la UPV/EHU - LSI (UPV/EHU)](https://declaracionmalaga2020.github.io/firmas/instituciones#departamento-de-lenguajes-y-sistemas-inform%C3%A1ticos-de-la-upvehu---lsi-upvehu)
 
+- [Dpto. de Informática de la Universitat de València - DPTINF-UV](https://declaracionmalaga2020.github.io/firmas/instituciones#departamento-de-inform%C3%A1tica-de-la-universitat-de-val%C3%A8ncia---dptinf-uv)
+
 ### Colegios profesionales
 
 - [Consejo General de Colegios Oficiales de Ingeniería en Informática - CCII](declaracionMalaga2020.github.io/firmas/instituciones#consejo-general-de-colegios-oficiales-de-ingenier%C3%ADa-en-inform%C3%A1tica---ccii)
