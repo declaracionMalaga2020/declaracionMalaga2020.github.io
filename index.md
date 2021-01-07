@@ -943,6 +943,8 @@ A continuación puedes consultar la lista de [firmantes invididuales](https://gi
 
 - [Universidad de Extremadura - UEx](declaracionMalaga2020.github.io/firmas/instituciones#universidad-de-extremadura---uex)
 
+- [Universidad del País Vasco/Euskal Herriko Unibertsitatea - UPV/EHU](https://declaracionmalaga2020.github.io/firmas/instituciones#universidad-del-pa%C3%ADs-vascoeuskal-herriko-unibertsitatea---upvehu)
+
 ### Institutos y centros de investigación
 
 - [IMDEA Software Institute](declaracionMalaga2020.github.io/firmas/instituciones#imdea-software-institute)
