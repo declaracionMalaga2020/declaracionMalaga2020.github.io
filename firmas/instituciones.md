@@ -365,3 +365,11 @@
 **Dirección:**    Avd. Universitat s/n, Burjasot
 
 **Responsable:**  Silvia Rueda Pascual - Directora de Departamento
+
+## Universidad del País Vasco/Euskal Herriko Unibertsitatea - UPV/EHU
+[www.ehu.eus](www.ehu.eus)
+
+**Dirección:**    Barrio Sarriena s/n, Leioa
+
+**Responsable:**  José Luis Martín - Vicerrector de Investigación
+
