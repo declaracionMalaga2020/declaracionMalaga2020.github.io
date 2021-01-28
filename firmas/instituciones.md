@@ -373,3 +373,16 @@
 
 **Responsable:**  José Luis Martín - Vicerrector de Investigación
 
+## Dpto. de Ciencia de la Computación e Inteligencia Artificial de la Universidad del País Vasco/Euskal Herriko Unibertsitatea (UPV/EHU) - KZAA/CCIA
+[www.ehu.eus/es/web/ccia-kzaa/](https://www.ehu.eus/es/web/ccia-kzaa/)
+
+**Dirección:**    Manuel Lardizabal Pasealekua, 1 - 20018 Donostia-San Sebastián
+
+**Responsable:**  Aitor Soroa Echave - Director del Departamento
+
+## Escola Politècnica Superio de la Universitat de les Illes Balears - EPS-UIB
+[eps.uib.es](eps.uib.es)
+
+**Dirección:**    Cra. de Valldemossa km 7,5, Palma
+
+**Responsable:**  Loren Carrasco Martorell - Directora
