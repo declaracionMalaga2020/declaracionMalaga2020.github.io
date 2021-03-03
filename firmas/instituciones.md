@@ -386,3 +386,17 @@
 **Dirección:**    Cra. de Valldemossa km 7,5, Palma
 
 **Responsable:**  Loren Carrasco Martorell - Directora
+
+## Departamento de Ingeniería del Software e Inteligencia Artificial de la Universidad Complutense de Madrid - DISIA-UCM
+[www.ucm.es/disia](www.ucm.es/disia)
+
+**Dirección:**    C/ Profesor José García Santesmases 9, Ciudad Universitaria, 28040 Madrid
+
+**Responsable:**  Gonzalo Méndez Pozo - Director
+
+## Facultad de Informática - Universidad Complutense de Madrid - FDI-UCM
+[https://informatica.ucm.es/](informatica.ucm.es)
+
+**Dirección:**    C/ Profesor José García Santesmases 9, 28040 Madrid
+
+**Responsable:**  Francisco Javier López Fraguas - Decano
