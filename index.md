@@ -1096,6 +1096,8 @@ A continuación puedes consultar la lista de [firmantes invididuales](https://gi
 
 - [Escola Politècnica Superio de la Universitat de les Illes Balears - EPS-UIB](https://declaracionmalaga2020.github.io/firmas/instituciones#escola-polit%C3%A8cnica-superio-de-la-universitat-de-les-illes-balears---eps-uib)
 
+- [Facultad de Informática de la Universidad Complutense de Madrid](https://declaracionmalaga2020.github.io/firmas/instituciones#facultad-de-inform%C3%A1tica---universidad-complutense-de-madrid---fdi-ucm)
+
 ### Departamentos
 
 - [Dpto. de Arquitectura y Tecnología de Computadores de la Universidad del País Vasco/Euskal Herriko Unibertsitatea - ATC (UPV/EHU)](https://declaracionmalaga2020.github.io/firmas/instituciones#dpto-de-arquitectura-y-tecnolog%C3%ADa-de-computadores-de-la-universidad-del-pa%C3%ADs-vascoeuskal-herriko-unibertsitatea---atc-upvehu)
@@ -1115,6 +1117,8 @@ A continuación puedes consultar la lista de [firmantes invididuales](https://gi
 - [Dpto. de Informática de la Universitat de València - DPTINF-UV](https://declaracionmalaga2020.github.io/firmas/instituciones#departamento-de-inform%C3%A1tica-de-la-universitat-de-val%C3%A8ncia---dptinf-uv)
 
 - [Dpto. de Ciencia de la Computación e Inteligencia Artificial de la Universidad del País Vasco/Euskal Herriko Unibertsitatea (UPV/EHU) - KZAA/CCIA](https://declaracionmalaga2020.github.io/firmas/instituciones#dpto-de-ciencia-de-la-computaci%C3%B3n-e-inteligencia-artificial-de-la-universidad-del-pa%C3%ADs-vascoeuskal-herriko-unibertsitatea-upvehu---kzaaccia)
+
+- [Dpto. de Ingeniería del Software e Inteligencia Artificial de la Universidad Complutense de Madrid - DISIA-UCM](https://declaracionmalaga2020.github.io/firmas/instituciones#departamento-de-ingenier%C3%ADa-del-software-e-inteligencia-artificial-de-la-universidad-complutense-de-madrid---disia-ucm)
 
 ### Colegios profesionales
 
