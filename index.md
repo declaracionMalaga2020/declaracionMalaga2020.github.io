@@ -1127,6 +1127,8 @@ A continuación puedes consultar la lista de [firmantes invididuales](https://gi
 
 - [Dpto. de Ingeniería del Software e Inteligencia Artificial de la Universidad Complutense de Madrid - DISIA-UCM](https://declaracionmalaga2020.github.io/firmas/instituciones#departamento-de-ingenier%C3%ADa-del-software-e-inteligencia-artificial-de-la-universidad-complutense-de-madrid---disia-ucm)
 
+- [Dpto. de Arquitectura de Computadores de la Universidad Complutense de Madrid - DACYA-UCM](https://declaracionmalaga2020.github.io/firmas/instituciones#departamento-de-arquitectura-de-computadores-de-la-universidad-complutense-de-madrid---dacya-ucm)
+
 ### Colegios profesionales
 
 - [Consejo General de Colegios Oficiales de Ingeniería en Informática - CCII](declaracionMalaga2020.github.io/firmas/instituciones#consejo-general-de-colegios-oficiales-de-ingenier%C3%ADa-en-inform%C3%A1tica---ccii)
