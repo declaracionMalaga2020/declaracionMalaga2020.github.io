@@ -394,9 +394,16 @@
 
 **Responsable:**  Gonzalo Méndez Pozo - Director
 
-## Facultad de Informática - Universidad Complutense de Madrid - FDI-UCM
+## Facultad de Informática de la Universidad Complutense de Madrid - FDI-UCM
 [https://informatica.ucm.es/](informatica.ucm.es)
 
 **Dirección:**    C/ Profesor José García Santesmases 9, 28040 Madrid
 
 **Responsable:**  Francisco Javier López Fraguas - Decano
+
+## Departamento de Arquitectura de Computadores de la Universidad Complutense de Madrid - DACYA-UCM
+[https://www.ucm.es/dacya](www.ucm.es/dacya)
+
+**Dirección:**    C/ Profesor José García Santesmases 9, 28040 Madrid
+
+**Responsable:**  Hortensia Mecha López - Directora
