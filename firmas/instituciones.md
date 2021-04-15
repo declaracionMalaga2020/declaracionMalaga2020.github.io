@@ -407,3 +407,10 @@
 **Dirección:**    C/ Profesor José García Santesmases 9, 28040 Madrid
 
 **Responsable:**  Hortensia Mecha López - Directora
+
+## Departamento de Ingeniería Informática de la Universidad Autónoma de Madrid - DII - UAM
+[http://www.uam.es/EPS/Home.htm?language=es](www.uam.es/EPS/Home.htm?language=es)
+
+**Dirección:**    C/ Francisco Tomás y Valiente 11, 28049 Madrid
+
+**Responsable:**  Fernando Díez Rubio - Director
