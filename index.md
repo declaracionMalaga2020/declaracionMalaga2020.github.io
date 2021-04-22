@@ -1105,6 +1105,8 @@ A continuación puedes consultar la lista de [firmantes invididuales](https://gi
 
 - [Facultad de Informática de la Universidad Complutense de Madrid](https://declaracionmalaga2020.github.io/firmas/instituciones#facultad-de-inform%C3%A1tica---universidad-complutense-de-madrid---fdi-ucm)
 
+- [Facultad de Informática de la UPV/EHU - DIF/FISS UPV/EHUM](https://declaracionmalaga2020.github.io/firmas/instituciones#facultad-de-inform%C3%A1tica-de-la-upvehu---diffiss-upvehum)
+
 ### Departamentos
 
 - [Dpto. de Arquitectura y Tecnología de Computadores de la Universidad del País Vasco/Euskal Herriko Unibertsitatea - ATC (UPV/EHU)](https://declaracionmalaga2020.github.io/firmas/instituciones#dpto-de-arquitectura-y-tecnolog%C3%ADa-de-computadores-de-la-universidad-del-pa%C3%ADs-vascoeuskal-herriko-unibertsitatea---atc-upvehu)
