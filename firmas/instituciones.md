@@ -414,3 +414,11 @@
 **Dirección:**    C/ Francisco Tomás y Valiente 11, 28049 Madrid
 
 **Responsable:**  Fernando Díez Rubio - Director
+
+## Facultad de Informática de la UPV/EHU - DIF/FISS UPV/EHUM
+[https://www.ehu.eus/eu/web/informatika-fakultatea](www.ehu.eus/eu/web/informatika-fakultatea)
+
+**Dirección:**    C/Manuel Lardizabal Ibilbidea, 1, 20018 Donostia, Gipuzkoa
+
+**Responsable:**  Alexander Mendiburu Alberro - Decano
+
