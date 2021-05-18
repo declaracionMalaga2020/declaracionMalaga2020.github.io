@@ -1136,6 +1136,8 @@ A continuación puedes consultar la lista de [firmantes invididuales](https://gi
 
 - [Dpto. de Ingeniería Informática de la Universidad Autónoma de Madrid - DII-UAM](https://declaracionmalaga2020.github.io/firmas/instituciones#departamento-de-ingenier%C3%ADa-inform%C3%A1tica-de-la-universidad-aut%C3%B3noma-de-madrid---dii---uam) 
 
+- [Dpto. de Sistemas Informáticos y Computación de la Universidad Complutense de Madrid - DSIC-UCM](https://declaracionmalaga2020.github.io/firmas/instituciones#dpto-de-sistemas-inform%C3%A1ticos-y-computaci%C3%B3n-de-la-universidad-complutense-de-madrid---dsic-ucm)
+
 ### Colegios profesionales
 
 - [Consejo General de Colegios Oficiales de Ingeniería en Informática - CCII](declaracionMalaga2020.github.io/firmas/instituciones#consejo-general-de-colegios-oficiales-de-ingenier%C3%ADa-en-inform%C3%A1tica---ccii)
