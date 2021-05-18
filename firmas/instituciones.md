@@ -422,3 +422,9 @@
 
 **Responsable:**  Alexander Mendiburu Alberro - Decano
 
+## Dpto. de Sistemas Informáticos y Computación de la Universidad Complutense de Madrid - DSIC-UCM
+[https://www.ucm.es/dsic-1-1](www.ucm.es/dsic-1-1)
+
+**Dirección:**    Facultad de Informática. C/ Prof. José García Santesmases 9, 28040 Madrid
+
+**Responsable:**  Natalia López Barquilla - Directora del departamento
